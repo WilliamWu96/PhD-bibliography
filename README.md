@@ -5,7 +5,7 @@
 * [Generalization](#generalization-dart)
   * [RL Generalization](#rl-generalization)
   * [IL Generalization](#il-generalization)
-* [Exploration strategy](#exploration-strategy)
+* [Exploration Strategy](#exploration-strategy)
 
 # Generalization :dart:
 
@@ -34,7 +34,7 @@
 
 * [arXiv 2021] [Generalization Guarantees for Imitation Learning](https://arxiv.org/pdf/2008.01913)
 
-# exploration-strategy
+# Exploration Strategy
 
 A list of papers regarding exploration strategy in (deep) reinforcement learning.
 
@@ -44,7 +44,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 
 * [arXiv 2018] [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894)
 
-# unsupervised active pretraining
+## Unsupervised Active Pretraining
 
 ### 2021
 
