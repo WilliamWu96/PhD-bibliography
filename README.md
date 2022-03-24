@@ -2,7 +2,10 @@
 
 # Table of contents
 
-* [Generalization](#generelization)
+* [Generalization](#generalization-dart)
+  * [RL Generalization](#rl-generalization)
+  * [IL Generalization](#il-generalization)
+
 
 # Generalization :dart:
 
@@ -25,4 +28,8 @@
     We study how representation learning can accelerate reinforcement learning from rich observations, such as images, without relying either on domain knowledge or pixel-reconstruction. Our goal is to learn representations that both provide for effective downstream control and invariance to task-irrelevant details. Bisimulation metrics quantify behavioral similarity between states in continuous MDPs, which we propose using to learn robust latent representations which encode only the task-relevant information from observations. Our method trains encoders such that distances in latent space equal bisimulation distances in state space. We demonstrate the effectiveness of our method at disregarding task-irrelevant information using modified visual MuJoCo tasks, where the background is replaced with moving distractors and natural videos, while achieving SOTA performance. We also test a first-person highway driving task where our method learns invariance to clouds, weather, and time of day. Finally, we provide generalization results drawn from properties of bisimulation metrics, and links to causal inference.
     </details>
 
+## il generalization
 
+### 2020
+
+* [arXiv 2021] [Generalization Guarantees for Imitation Learning](https://arxiv.org/pdf/2008.01913)
