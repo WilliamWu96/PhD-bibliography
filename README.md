@@ -1,4 +1,4 @@
-# phd-binliography
+# PhD-bibliography
 
 # Table of contents
 
@@ -6,7 +6,7 @@
   * [RL Generalization](#rl-generalization)
   * [IL Generalization](#il-generalization)
 * [Exploration Strategy](#exploration-strategy)
-* [CARLA](#calra)
+* [CARLA](#carla)
 
 # Generalization :dart:
 
