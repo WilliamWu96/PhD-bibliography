@@ -5,7 +5,7 @@
 * [Generalization](#generalization-dart)
   * [RL Generalization](#rl-generalization)
   * [IL Generalization](#il-generalization)
-
+* [Exploration strategy](#exploration-strategy)
 
 # Generalization :dart:
 
@@ -33,3 +33,23 @@
 ### 2020
 
 * [arXiv 2021] [Generalization Guarantees for Imitation Learning](https://arxiv.org/pdf/2008.01913)
+
+# exploration-strategy
+
+A list of papers regarding exploration strategy in (deep) reinforcement learning.
+
+### 2021
+
+### 2018
+
+* [arXiv 2018] [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894)
+
+# unsupervised active pretraining
+
+### 2021
+
+* [arXiv 2021] [Behavior From the Void: Unsupervised Active Pre-Training](https://arxiv.org/abs/2103.04551)
+
+* [arXiv 2021] [APS: Active Pretraining with Successor Features](https://arxiv.org/abs/2108.13956)
+
+* [arXiv 2021] [Reinforcement Learning with Prototypical Representations](https://arxiv.org/abs/2102.11271)
