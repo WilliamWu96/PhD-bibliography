@@ -4,7 +4,8 @@
 
 * [Reinforcement Learning](#reinforcement-learning)
   * [Theory](#theory) 
-  * [Policy Gradient](#policy-gradient)
+  * [Value based](#value-based)
+  * [Policy Based](#policy-based)
 * [Generalization](#generalization-dart)
   * [RL Generalization](#rl-generalization)
   * [IL Generalization](#il-generalization)
@@ -19,6 +20,9 @@
 
 ## Theory
 * [Reinforcement learning: A survey](https://arxiv.org/abs/2111.09794)
+
+## Value based
+* [DQN][Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 
 ## Policy based
 ### Policy gradient
