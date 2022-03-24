@@ -19,16 +19,16 @@
 # Reinforcement Learning
 
 ## Theory
-* [Reinforcement learning: A survey](https://arxiv.org/abs/2111.09794)
+* [Reinforcement learning: A survey]()
 
 ## Value based
 * [DQN][Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 
 ## Policy based
 ### Policy gradient
-* [PPO] [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
-* [SAC] [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
-* [SAC] [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905)
+* [PPO 2017] [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
+* [SAC 2018] [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
+* [SAC 2018] [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905)
 
 # Generalization :dart:
 
@@ -82,14 +82,14 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 
 * [arXiv 2021] [Multi-Modal Fusion Transformer for End-to-End Autonomous Driving](https://arxiv.org/abs/2104.09224)
 
-* [arXiv 2021] [Learning to drive from a world on rails](https://arxiv.org/pdf/2105.00636)
+* [RAIL 2021] [Learning to drive from a world on rails](https://arxiv.org/pdf/2105.00636)
 
 * [PhD thesis 2020] [Safe and Efficient Reinforcement Learning for Behavioural Planning in Autonomous Driving](https://hal.inria.fr/tel-03035705/document)
 
 
 ## Imitation Learning CARLA
 
-* [arXiv 2022] [Learning from All Vehicles](https://arxiv.org/pdf/2203.11934)
+* [LAV 2022] [Learning from All Vehicles](https://arxiv.org/pdf/2203.11934)
 
-* [arXiv 2021] [Learning by cheating](https://arxiv.org/pdf/1912.12294)
+* [cheating 2021] [Learning by cheating](https://arxiv.org/pdf/1912.12294)
 
