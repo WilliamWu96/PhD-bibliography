@@ -4,6 +4,6 @@
 
 * [Optimal Control](#optimal-control-dart)
 
-# Optimal Control :dart:
+# Optimal Control 
 
 ## Dynamic Programming
