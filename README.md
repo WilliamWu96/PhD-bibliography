@@ -65,7 +65,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 
 # CARLA
 
-## Reinforcement Learning - CARLA
+## Reinforcement Learning CARLA
 
 ### 2021
 
@@ -77,7 +77,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 * [PhD thesis 2020] [Safe and Efficient Reinforcement Learning for Behavioural Planning in Autonomous Driving](https://hal.inria.fr/tel-03035705/document)
 
 
-## Imitation Learning - CARLA
+## Imitation Learning CARLA
 
 ### 2022
 
