@@ -22,7 +22,7 @@
 * [Reinforcement learning: A survey]()
 
 ## Value based
-* [DQN][Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+* [DQN] [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 
 ## Policy based
 ### Policy gradient
