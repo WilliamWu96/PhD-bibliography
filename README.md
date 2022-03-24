@@ -7,7 +7,7 @@
   * [IL Generalization](#il-generalization)
 * [Exploration Strategy](#exploration-strategy)
   * [Exploration Strategy](#Exploration-Strategy)
-  * [IL Generalization](#Unsupervised-Active-Pretraining)
+  * [Unsupervised Active Pretraining](#Unsupervised-Active-Pretraining)
 * [CARLA](#carla)
   * [Reinforcement Learning CARLA](#reinforcement-learning-carla)
   * [Imitation Learning CARLA](#imitation-learning-carla)
