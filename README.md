@@ -2,6 +2,9 @@
 
 # Table of contents
 
+* [Reinforcement Learning](#reinforcement-learning)
+  * [Theory](#theory) 
+  * [Policy Gradient](#policy-gradient)
 * [Generalization](#generalization-dart)
   * [RL Generalization](#rl-generalization)
   * [IL Generalization](#il-generalization)
@@ -12,13 +15,18 @@
   * [Reinforcement Learning CARLA](#reinforcement-learning-carla)
   * [Imitation Learning CARLA](#imitation-learning-carla)
 
+# Reinforcement Learning
 
+## Theory
+* [Reinforcement learning: A survey](https://arxiv.org/abs/2111.09794)
+
+## Policy based
+### Policy gradient
+* [PPO] [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 
 # Generalization :dart:
 
 ## RL generalization
-
-### 2021
 
 * [arXiv 2021] [A Survey of Generalisation in Deep Reinforcement Learning](https://arxiv.org/abs/2111.09794)
 * [arXiv 2021] [Generalization of Reinforcement Learning with Policy-Aware Adversarial Data Augmentation](https://arxiv.org/abs/2106.15587)
@@ -37,8 +45,6 @@
 
 ## IL generalization
 
-### 2020
-
 * [arXiv 2021] [Generalization Guarantees for Imitation Learning](https://arxiv.org/pdf/2008.01913)
 
 # Exploration Strategy
@@ -47,15 +53,11 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 
 ## Exploration Strategy
 
-### 2021
-
-### 2018
-
 * [arXiv 2018] [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894)
 
-## Unsupervised Active Pretraining
 
-### 2021
+
+## Unsupervised Active Pretraining
 
 * [arXiv 2021] [Behavior From the Void: Unsupervised Active Pre-Training](https://arxiv.org/abs/2103.04551)
 
@@ -63,27 +65,21 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 
 * [arXiv 2021] [Reinforcement Learning with Prototypical Representations](https://arxiv.org/abs/2102.11271)
 
+
 # CARLA
 
 ## Reinforcement Learning CARLA
-
-### 2021
 
 * [arXiv 2021] [Multi-Modal Fusion Transformer for End-to-End Autonomous Driving](https://arxiv.org/abs/2104.09224)
 
 * [arXiv 2021] [Learning to drive from a world on rails](https://arxiv.org/pdf/2105.00636)
 
-### 2020
 * [PhD thesis 2020] [Safe and Efficient Reinforcement Learning for Behavioural Planning in Autonomous Driving](https://hal.inria.fr/tel-03035705/document)
 
 
 ## Imitation Learning CARLA
 
-### 2022
-
 * [arXiv 2022] [Learning from All Vehicles](https://arxiv.org/pdf/2203.11934)
-
-### 2021
 
 * [arXiv 2021] [Learning by cheating](https://arxiv.org/pdf/1912.12294)
 
