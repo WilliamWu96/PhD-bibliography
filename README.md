@@ -7,8 +7,12 @@
   * [IL Generalization](#il-generalization)
 * [Exploration Strategy](#exploration-strategy)
   * [Exploration Strategy](#Exploration-Strategy)
-  * [IL Generalization](#il-generalization)
+  * [IL Generalization](#Unsupervised Active Pretraining)
 * [CARLA](#carla)
+  * [Reinforcement Learning CARLA](#reinforcement learning carla)
+  * [Imitation Learning CARLA](#imitation learning carla)
+
+
 
 # Generalization :dart:
 
@@ -61,7 +65,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 
 # CARLA
 
-## reinforcement-learning-CARLA
+## Reinforcement Learning - CARLA
 
 ### 2021
 
@@ -73,7 +77,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 * [PhD thesis 2020] [Safe and Efficient Reinforcement Learning for Behavioural Planning in Autonomous Driving](https://hal.inria.fr/tel-03035705/document)
 
 
-## imitation-learning-CARLA
+## Imitation Learning - CARLA
 
 ### 2022
 
