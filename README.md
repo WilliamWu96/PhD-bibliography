@@ -6,6 +6,8 @@
   * [RL Generalization](#rl-generalization)
   * [IL Generalization](#il-generalization)
 * [Exploration Strategy](#exploration-strategy)
+  * [Exploration Strategy](#Exploration-Strategy)
+  * [IL Generalization](#il-generalization)
 * [CARLA](#carla)
 
 # Generalization :dart:
