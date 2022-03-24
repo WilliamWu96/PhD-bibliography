@@ -62,6 +62,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 
 * [Exploration Strategies in Deep Reinforcement Learning](https://lilianweng.github.io/posts/2020-06-07-exploration-drl/), Lil, (2020)
 * [RND] [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894)
+* [Episodic Curiosity] [Episodic Curiosity through Reachability](https://arxiv.org/abs/1810.02274), (2018)
 
 
 ## Unsupervised Active Pretraining
