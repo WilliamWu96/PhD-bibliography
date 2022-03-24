@@ -6,6 +6,7 @@
   * [RL Generalization](#rl-generalization)
   * [IL Generalization](#il-generalization)
 * [Exploration Strategy](#exploration-strategy)
+* [CARLA](#calra)
 
 # Generalization :dart:
 
@@ -53,3 +54,28 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 * [arXiv 2021] [APS: Active Pretraining with Successor Features](https://arxiv.org/abs/2108.13956)
 
 * [arXiv 2021] [Reinforcement Learning with Prototypical Representations](https://arxiv.org/abs/2102.11271)
+
+# CARLA
+
+## reinforcement-learning-CARLA
+
+### 2021
+
+* [arXiv 2021] [Multi-Modal Fusion Transformer for End-to-End Autonomous Driving](https://arxiv.org/abs/2104.09224)
+
+* [arXiv 2021] [Learning to drive from a world on rails](https://arxiv.org/pdf/2105.00636)
+
+### 2020
+* [PhD thesis 2020] [Safe and Efficient Reinforcement Learning for Behavioural Planning in Autonomous Driving](https://hal.inria.fr/tel-03035705/document)
+
+
+## imitation-learning-CARLA
+
+### 2022
+
+* [arXiv 2022] [Learning from All Vehicles](https://arxiv.org/pdf/2203.11934)
+
+### 2021
+
+* [arXiv 2021] [Learning by cheating](https://arxiv.org/pdf/1912.12294)
+
