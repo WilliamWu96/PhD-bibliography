@@ -39,6 +39,8 @@
 
 A list of papers regarding exploration strategy in (deep) reinforcement learning.
 
+## Exploration Strategy
+
 ### 2021
 
 ### 2018
