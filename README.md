@@ -27,6 +27,8 @@
 ## Policy based
 ### Policy gradient
 * [PPO] [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
+* [SAC] [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
+* [SAC] [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905)
 
 # Generalization :dart:
 
