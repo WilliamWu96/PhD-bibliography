@@ -86,8 +86,6 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 
 ## Reinforcement Learning CARLA
 
-* [arXiv 2021] [Multi-Modal Fusion Transformer for End-to-End Autonomous Driving](https://arxiv.org/abs/2104.09224)
-
 * [RAIL 2021] [Learning to drive from a world on rails](https://arxiv.org/pdf/2105.00636)
 
 * [PhD thesis 2020] [Safe and Efficient Reinforcement Learning for Behavioural Planning in Autonomous Driving](https://hal.inria.fr/tel-03035705/document)
@@ -98,4 +96,6 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 * [LAV 2022] [Learning from All Vehicles](https://arxiv.org/pdf/2203.11934)
 
 * [cheating 2021] [Learning by cheating](https://arxiv.org/pdf/1912.12294)
+
+* [TransFuser 2021] [Multi-Modal Fusion Transformer for End-to-End Autonomous Driving](https://arxiv.org/abs/2104.09224)
 
