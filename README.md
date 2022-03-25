@@ -90,6 +90,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 
 * [PhD thesis 2020] [Safe and Efficient Reinforcement Learning for Behavioural Planning in Autonomous Driving](https://hal.inria.fr/tel-03035705/document)
 
+* [2019] [End-to-End Model-Free Reinforcement Learning for Urban Driving using Implicit Affordances](https://arxiv.org/abs/1911.10868)
 
 ## Imitation Learning CARLA
 
