@@ -20,7 +20,7 @@
 # Reinforcement Learning
 
 ## Theory
-* [Reinforcement learning: A survey]()
+* [Reinforcement learning: A survey](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
 ## Value based
 * [DQN] [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
