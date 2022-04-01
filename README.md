@@ -62,6 +62,11 @@
 
 * [arXiv 2021] [Generalization Guarantees for Imitation Learning](https://arxiv.org/pdf/2008.01913)
 
+## Adversarial Robustness
+
+* [DataAug+AdversarialTraining] [Fixing Data Augmentation to Improve Adversarial Robustness](https://arxiv.org/abs/2103.01946)
+* [DataAug+AdversarialTraining] [Robustness and Accuracy Could Be Reconcilable by (Proper) Definition](https://arxiv.org/abs/2202.10103)
+
 # Exploration Strategy
 
 A list of papers regarding exploration strategy in (deep) reinforcement learning.
