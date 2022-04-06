@@ -22,6 +22,8 @@
 
 ## Theory
 * [Reinforcement learning: A survey](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+* [A Markovian Decision Process](https://www.jstor.org/stable/24900506?seq=1)
+* [Planning and acting in partially observable stochastic domains](https://www.sciencedirect.com/science/article/pii/S000437029800023X)
 
 ## Value based
 * [DQN] [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
