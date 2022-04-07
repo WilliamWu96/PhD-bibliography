@@ -89,6 +89,8 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 
 * [arXiv 2021] [Reinforcement Learning with Prototypical Representations](https://arxiv.org/abs/2102.11271)
 
+* [RL Active Learning] [Learning with not Enough Data Part 2: Active Learning](https://lilianweng.github.io/posts/2022-02-20-active-learning/)
+
 
 # CARLA
 
