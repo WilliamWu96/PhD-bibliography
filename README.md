@@ -81,6 +81,12 @@
 
 A list of papers regarding exploration strategy in (deep) reinforcement learning.
 
+## Count-based Exploration
+* [Unifying count-based exploration and intrinsic motivation](https://arxiv.org/abs/1606.01868)
+* [Count-Based Exploration with Neural Density Models](https://arxiv.org/abs/1703.01310)
+* [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1611.04717)
+* [Contingency-aware exploration in reinforcement learning](https://arxiv.org/abs/1811.01483)
+
 ## Exploration Strategy
 
 * [Exploration Strategies in Deep Reinforcement Learning](https://lilianweng.github.io/posts/2020-06-07-exploration-drl/), Lil, (2020)
