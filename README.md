@@ -18,6 +18,7 @@
 * [CARLA](#carla)
   * [Reinforcement Learning CARLA](#reinforcement-learning-carla)
   * [Imitation Learning CARLA](#imitation-learning-carla)
+* [RL Safety](#RL-SAFETY)
 
 # Reinforcement Learning
 
@@ -124,4 +125,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 * [cheating 2021] [Learning by cheating](https://arxiv.org/pdf/1912.12294)
 
 * [TransFuser 2021] [Multi-Modal Fusion Transformer for End-to-End Autonomous Driving](https://arxiv.org/abs/2104.09224)
+
+# RL Safety
+* [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
 
