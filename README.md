@@ -12,6 +12,7 @@
   * [IL Generalization](#il-generalization)
   * [Adversarial Robustness](#Adversarial-Robustness)
 * [Uncertainty](#uncertainty)
+* [Gaussian Process](#gaussian-process)
 * [Exploration Strategy](#exploration-strategy)
   * [Count-based Exploration Strategy](#Count-based-exploration-strategy)
   * [Prediction-based Exploration Strategy](#Prediction-based-Exploration-Strategy)
@@ -84,6 +85,12 @@
 # Uncertainty
 
 * [A Survey of Uncertainty in Deep Neural Networks](https://arxiv.org/abs/2107.03342)
+
+# Gaussian Process
+
+* [Last Layer Marginal Likelihood for Invariance Learning](https://arxiv.org/abs/2106.07512)
+* [Learning Invariant Weights in Neural Networks](https://arxiv.org/abs/2202.12439)
+
 
 # Exploration Strategy
 
