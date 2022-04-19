@@ -11,6 +11,7 @@
   * [Representation Learning](#representation-learning)
   * [IL Generalization](#il-generalization)
   * [Adversarial Robustness](#Adversarial-Robustness)
+* [Uncertainty](#uncertainty)
 * [Exploration Strategy](#exploration-strategy)
   * [Count-based Exploration Strategy](#Count-based-exploration-strategy)
   * [Prediction-based Exploration Strategy](#Prediction-based-Exploration-Strategy)
@@ -79,6 +80,10 @@
 
 * [DataAug+AdversarialTraining] [Fixing Data Augmentation to Improve Adversarial Robustness](https://arxiv.org/abs/2103.01946)
 * [DataAug+AdversarialTraining] [Robustness and Accuracy Could Be Reconcilable by (Proper) Definition](https://arxiv.org/abs/2202.10103)
+
+# Uncertainty
+
+* [A Survey of Uncertainty in Deep Neural Networks](https://arxiv.org/abs/2107.03342)
 
 # Exploration Strategy
 
