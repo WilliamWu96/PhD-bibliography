@@ -11,7 +11,7 @@
   * [Representation Learning](#representation-learning)
   * [IL Generalization](#il-generalization)
   * [Adversarial Robustness](#Adversarial-Robustness)
-* [Robustness](#robostness-rl)
+* [Robustness](#robustness)
 * [Uncertainty](#uncertainty)
 * [Gaussian Process](#gaussian-process)
 * [Exploration Strategy](#exploration-strategy)
@@ -78,10 +78,16 @@
 
 * [arXiv 2021] [Generalization Guarantees for Imitation Learning](https://arxiv.org/pdf/2008.01913)
 
-## Adversarial Robustness
 
+
+
+# Robustness
+
+## Adversarial Robustness
 * [DataAug+AdversarialTraining] [Fixing Data Augmentation to Improve Adversarial Robustness](https://arxiv.org/abs/2103.01946)
 * [DataAug+AdversarialTraining] [Robustness and Accuracy Could Be Reconcilable by (Proper) Definition](https://arxiv.org/abs/2202.10103)
+## RL Robustness
+* [Maximum Entropy RL (Provably) Solves Some Robust RL Problems](https://openreview.net/pdf?id=PtSAD3caaA2)
 
 # Uncertainty
 
