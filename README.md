@@ -10,8 +10,10 @@
   * [RL Generalization](#rl-generalization)
   * [Representation Learning](#representation-learning)
   * [IL Generalization](#il-generalization)
-  * [Adversarial Robustness](#Adversarial-Robustness)
+  
 * [Robustness](#robustness)
+  * [Adversarial Robustness](#Adversarial-Robustness)
+  * [RL Robustness](#RL-Robustness)
 * [Uncertainty](#uncertainty)
 * [Gaussian Process](#gaussian-process)
 * [Exploration Strategy](#exploration-strategy)
