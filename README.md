@@ -14,8 +14,8 @@
   * [IL Generalization](#il-generalization)
 
 * [Domain Adaptation](#domain-adaptation)
-  * [Metric learning-based DA](#metric-leaning-based-da)
-  * [Adversairla learning-based DA](#adversarial-learning-based-da)
+  * [Metric learning-based DA](#metric-leaning--based-da)
+  * [Adversarial learning-based DA](#adversarial-learning-based-da)
   
 * [Robustness](#robustness)
   * [Adversarial Robustness](#Adversarial-Robustness)
@@ -97,7 +97,7 @@
 
 * []
 
-## Adversairal learning-based DA
+## Adversarial learning-based DA
 
 
 # Robustness
