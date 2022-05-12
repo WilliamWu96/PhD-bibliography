@@ -116,6 +116,7 @@
 
 ## Domain adaptation in RL
 * [Domain Adaptation In Reinforcement Learning Via Latent Unified State Representation](https://arxiv.org/pdf/2102.05714.pdf)
+* [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)
 
 # Robustness
 
