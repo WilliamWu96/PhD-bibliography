@@ -14,6 +14,8 @@
   * [IL Generalization](#il-generalization)
 
 * [Domain Adaptation](#domain-adaptation)
+  * [Metric learning-based DA](#metric-leaning-based-da)
+  * [Adversairla learning-based DA](#adversarial-learning-based-da)
   
 * [Robustness](#robustness)
   * [Adversarial Robustness](#Adversarial-Robustness)
@@ -87,9 +89,16 @@
 
 * [arXiv 2021] [Generalization Guarantees for Imitation Learning](https://arxiv.org/pdf/2008.01913)
 
-# Domain Adaptation
+# Domain Adaptation (DA)
 
 * [Divergence-agnostic Unsupervised Domain daptation by Adversarial Attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9528987)
+
+## Metric learning-based DA
+
+* []
+
+## Adversairal learning-based DA
+
 
 # Robustness
 
