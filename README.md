@@ -7,6 +7,9 @@
   * [Value based](#value-based)
   * [Policy Based](#policy-based)
 
+* [Machine Learning](#machine-learning)
+  * [Theory](#theory) 
+
 
 * [Generalization](#generalization-dart)
   * [RL Generalization](#rl-generalization)
@@ -49,6 +52,12 @@
 * [PPO 2017] [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 * [SAC 2018] [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
 * [SAC 2018] [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905)
+
+# Machine Learning
+
+## Theory
+* [GAN] [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+* [Transformer] [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
 # Generalization :dart:
 
