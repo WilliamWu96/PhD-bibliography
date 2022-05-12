@@ -95,10 +95,11 @@
 
 ## Metric learning-based DA
 
-* []
+* [Central Moment Discrepancy (CMD) for Domain-Invariant Representation Learning](https://arxiv.org/abs/1702.08811)
+* [Integrating structured biological data by kernel maximum mean discrepancy](https://academic.oup.com/bioinformatics/article/22/14/e49/228383)
 
 ## Adversarial learning-based DA
-
+* [Unsupervised domain adaptation by backpropagation](https://arxiv.org/abs/1409.7495)
 
 # Robustness
 
