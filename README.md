@@ -101,6 +101,7 @@
 # Domain Adaptation (DA)
 
 * [Divergence-agnostic Unsupervised Domain daptation by Adversarial Attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9528987)
+* [A Comprehensive Survey on Transfer Learning](https://arxiv.org/pdf/1911.02685.pdf)
 
 ## Metric learning-based DA
 
