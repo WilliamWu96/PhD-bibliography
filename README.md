@@ -109,6 +109,7 @@
 
 ## Adversarial learning-based DA
 * [Unsupervised domain adaptation by backpropagation](https://arxiv.org/abs/1409.7495)
+* [Conditional Adversarial Domain Adaptation](https://arxiv.org/abs/1705.10667)
 
 # Robustness
 
