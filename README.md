@@ -19,6 +19,7 @@
 * [Domain Adaptation (DA)](#domain-adaptation-da)
   * [Metric learning-based DA](#metric-learning-based-da)
   * [Adversarial learning-based DA](#adversarial-learning-based-da)
+  * [Domain adaptation in RL](#Domain-adaptation-in-RL)
   
 * [Robustness](#robustness)
   * [Adversarial Robustness](#Adversarial-Robustness)
