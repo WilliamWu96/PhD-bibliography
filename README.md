@@ -13,7 +13,7 @@
   * [Representation Learning](#representation-learning)
   * [IL Generalization](#il-generalization)
 
-* [Domain Adaptation](#domain-adaptation-(da))
+* [Domain Adaptation DA](#domain-adaptation-(da))
   * [Metric learning-based DA](#metric-learning-based-da)
   * [Adversarial learning-based DA](#adversarial-learning-based-da)
   
