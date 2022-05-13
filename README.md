@@ -20,6 +20,9 @@
   * [Metric learning-based DA](#metric-learning-based-da)
   * [Adversarial learning-based DA](#adversarial-learning-based-da)
   * [Domain adaptation in RL](#Domain-adaptation-in-RL)
+   * [Domain randomization](#domain-randomization)
+   * [GAN-based DA](#GAN-based-DA)  
+   * [VAE-based DA](#VAE-based-DA)  
   
 * [Robustness](#robustness)
   * [Adversarial Robustness](#Adversarial-Robustness)
