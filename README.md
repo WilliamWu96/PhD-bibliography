@@ -129,6 +129,9 @@
 ### GAN-based DA
 * [Unsupervised Image-to-Image Translation Networks](https://arxiv.org/abs/1703.00848)
 * [Unpaired image-to-image translation using cycle-consistent adversarial networks](https://arxiv.org/abs/1703.10593)
+* [Virtual to real reinforcement learning for autonomous driving.](https://arxiv.org/abs/1704.03952)
+* [Adapting deep visuomotor representations with weak pairwise constraints](https://arxiv.org/abs/1511.07111)
+* [Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation](https://arxiv.org/abs/1806.07377)
 
 
 ### VAE-based DA
