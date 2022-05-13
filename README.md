@@ -118,6 +118,20 @@
 * [Domain Adaptation In Reinforcement Learning Via Latent Unified State Representation](https://arxiv.org/pdf/2102.05714.pdf)
 * [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)
 
+### Domain randomization
+* [Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World](https://arxiv.org/abs/1703.06907)
+* [Learning Dexterous In-Hand Manipulation](https://arxiv.org/abs/1808.00177)
+
+
+### GAN-based DA
+
+
+
+
+### VAE-based DA
+
+
+
 # Robustness
 
 ## Adversarial Robustness
