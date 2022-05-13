@@ -127,8 +127,8 @@
 * [Robust Visual Domain Randomization for Reinforcement Learning](https://arxiv.org/abs/1910.10537)
 
 ### GAN-based DA
-
-
+* [Unsupervised Image-to-Image Translation Networks](https://arxiv.org/abs/1703.00848)
+* [Unpaired image-to-image translation using cycle-consistent adversarial networks](https://arxiv.org/abs/1703.10593)
 
 
 ### VAE-based DA
