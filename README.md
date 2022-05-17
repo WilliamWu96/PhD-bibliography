@@ -135,7 +135,8 @@
 
 
 ### VAE-based DA
-
+* [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning](https://arxiv.org/abs/1707.08475)
+* []
 
 
 # Robustness
