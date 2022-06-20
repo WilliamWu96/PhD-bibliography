@@ -154,6 +154,7 @@
 * [Gaussian Processes for Dummies](https://katbailey.github.io/post/gaussian-processes-for-dummies/)
 * [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 * [Gaussian Processes in 2-dimensional model - jupyter notebook](https://nbviewer.org/github/SheffieldML/notebook/blob/master/GPy/basic_gp.ipynb)
+* [The Kernel Cookbook: Advice on Covariance functions](https://www.cs.toronto.edu/~duvenaud/cookbook/)
 
 ## Deep Gaussian Processes
 
