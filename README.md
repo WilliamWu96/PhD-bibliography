@@ -22,7 +22,10 @@
   * [Domain adaptation in RL](#Domain-adaptation-in-RL)
     * [Domain randomization](#domain-randomization)
     * [GAN-based DA](#GAN-based-DA)  
-    * [VAE-based DA](#VAE-based-DA)  
+    * [VAE-based DA](#VAE-based-DA)
+
+* [Gaussian Processes](#gaussian-processes)
+  * [Deep Gaussian Processes](#deep-gaussian-processes)
   
 * [Robustness](#robustness)
   * [Adversarial Robustness](#Adversarial-Robustness)
@@ -137,8 +140,24 @@
 
 ### VAE-based DA
 * [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning](https://arxiv.org/abs/1707.08475)
+
+# Gaussian Processes
+
+## Book
+* [Gaussian Processes for Machine Learning](http://gaussianprocess.org/gpml/chapters/)
+
+## Tutorial
+* [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
+* [Gaussian Processes in 2-dimensional model - jupyter notebook](https://nbviewer.org/github/SheffieldML/notebook/blob/master/GPy/basic_gp.ipynb)
+* [Gaussian Processes for Dummies](https://katbailey.github.io/post/gaussian-processes-for-dummies/)
+* [Gaussian Processes are Not So Fancy](https://planspace.org/20181226-gaussian_processes_are_not_so_fancy/)
 * []
 
+## Deep Gaussian Processes
+
+* [Deep Gaussian Processes](http://proceedings.mlr.press/v31/damianou13a.pdf)
+* [Deep Gaussian Processes_Pytorch](https://docs.gpytorch.ai/en/v1.5.1/examples/05_Deep_Gaussian_Processes/Deep_Gaussian_Processes.html)
+* [Deep convolutional Gaussian processes](https://arxiv.org/abs/1810.03052)
 
 # Robustness
 
