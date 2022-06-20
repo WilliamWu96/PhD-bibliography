@@ -145,15 +145,15 @@
 
 # Gaussian Processes
 
-## Book
+## GP Book
 * [Gaussian Processes for Machine Learning](http://gaussianprocess.org/gpml/chapters/)
 
-## Tutorial
+## GP Tutorial
+
+* [Gaussian Processes are Not So Fancy](https://planspace.org/20181226-gaussian_processes_are_not_so_fancy/)
+* [Gaussian Processes for Dummies](https://katbailey.github.io/post/gaussian-processes-for-dummies/)
 * [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 * [Gaussian Processes in 2-dimensional model - jupyter notebook](https://nbviewer.org/github/SheffieldML/notebook/blob/master/GPy/basic_gp.ipynb)
-* [Gaussian Processes for Dummies](https://katbailey.github.io/post/gaussian-processes-for-dummies/)
-* [Gaussian Processes are Not So Fancy](https://planspace.org/20181226-gaussian_processes_are_not_so_fancy/)
-* []
 
 ## Deep Gaussian Processes
 
