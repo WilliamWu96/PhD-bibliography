@@ -25,6 +25,8 @@
     * [VAE-based DA](#VAE-based-DA)
 
 * [Gaussian Processes](#gaussian-processes)
+  * [GP Book](#gp-book)
+  * [GP Tutorial](#gp-tutorial)
   * [Deep Gaussian Processes](#deep-gaussian-processes)
   
 * [Robustness](#robustness)
