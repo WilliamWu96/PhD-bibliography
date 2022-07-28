@@ -135,6 +135,7 @@
 * [Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World](https://arxiv.org/abs/1703.06907)
 * [Learning Dexterous In-Hand Manipulation](https://arxiv.org/abs/1808.00177)
 * [Robust Visual Domain Randomization for Reinforcement Learning](https://arxiv.org/abs/1910.10537)
+* [Active Domain Randomization](https://arxiv.org/pdf/1904.04762.pdf)
 
 ### GAN-based DA
 * [Unsupervised Image-to-Image Translation Networks](https://arxiv.org/abs/1703.00848)
