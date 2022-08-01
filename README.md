@@ -112,7 +112,6 @@
 
 # Domain Adaptation (DA)
 
-* [Divergence-agnostic Unsupervised Domain daptation by Adversarial Attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9528987)
 * [A Comprehensive Survey on Transfer Learning](https://arxiv.org/pdf/1911.02685.pdf)
 * [A Review of Single-Source Deep Unsupervised Visual Domain Adaptation](https://arxiv.org/pdf/2009.00155.pdf)
 * [Active Domain Randomization](http://proceedings.mlr.press/v100/mehta20a/mehta20a.pdf)
@@ -123,6 +122,8 @@
 * [Integrating structured biological data by kernel maximum mean discrepancy](https://academic.oup.com/bioinformatics/article/22/14/e49/228383)
 
 ## Adversarial learning-based DA
+
+* [Divergence-agnostic Unsupervised Domain daptation by Adversarial Attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9528987)
 * [Unsupervised domain adaptation by backpropagation](https://arxiv.org/abs/1409.7495)
 * [Conditional Adversarial Domain Adaptation](https://arxiv.org/abs/1705.10667)
 
