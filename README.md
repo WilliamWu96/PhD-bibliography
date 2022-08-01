@@ -23,11 +23,6 @@
     * [Domain randomization](#domain-randomization)
     * [GAN-based DA](#GAN-based-DA)  
     * [VAE-based DA](#VAE-based-DA)
-
-* [Gaussian Processes](#gaussian-processes)
-  * [GP Book](#gp-book)
-  * [GP Tutorial](#gp-tutorial)
-  * [Deep Gaussian Processes](#deep-gaussian-processes)
   
 * [Robustness](#robustness)
   * [Adversarial Robustness](#Adversarial-Robustness)
@@ -36,8 +31,14 @@
 * [Uncertainty](#uncertainty)
 
 
-* [Gaussian Process](#gaussian-process)
 * [Bayesian Optimization](#bayesian-optimization)
+  * [BO Tutorial](#bo-tutorial)
+  * 
+* [Gaussian Processes](#gaussian-processes)
+  * [GP Book](#gp-book)
+  * [GP Tutorial](#gp-tutorial)
+  * [Deep Gaussian Processes](#deep-gaussian-processes)
+ 
 * [Exploration Strategy](#exploration-strategy)
   * [Count-based Exploration Strategy](#Count-based-exploration-strategy)
   * [Prediction-based Exploration Strategy](#Prediction-based-Exploration-Strategy)
@@ -111,6 +112,10 @@
 
 * [arXiv 2021] [Generalization Guarantees for Imitation Learning](https://arxiv.org/pdf/2008.01913)
 
+# Domain Generalization (DG)
+
+* [Domain Generalization: A Survey](https://arxiv.org/abs/2103.02503)
+
 # Domain Adaptation (DA)
 
 * [A Comprehensive Survey on Transfer Learning](https://arxiv.org/pdf/1911.02685.pdf)
@@ -150,25 +155,6 @@
 ### VAE-based DA
 * [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning](https://arxiv.org/abs/1707.08475)
 
-# Gaussian Processes
-
-## GP Book
-* [Gaussian Processes for Machine Learning](http://gaussianprocess.org/gpml/chapters/)
-
-## GP Tutorial
-
-* [Gaussian Processes are Not So Fancy](https://planspace.org/20181226-gaussian_processes_are_not_so_fancy/)
-* [Gaussian Processes for Dummies](https://katbailey.github.io/post/gaussian-processes-for-dummies/)
-* [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
-* [Gaussian Processes in 2-dimensional model - jupyter notebook](https://nbviewer.org/github/SheffieldML/notebook/blob/master/GPy/basic_gp.ipynb)
-* [The Kernel Cookbook: Advice on Covariance functions](https://www.cs.toronto.edu/~duvenaud/cookbook/)
-
-## Deep Gaussian Processes
-
-* [Deep Gaussian Processes](http://proceedings.mlr.press/v31/damianou13a.pdf)
-* [Deep Gaussian Processes_Pytorch](https://docs.gpytorch.ai/en/v1.5.1/examples/05_Deep_Gaussian_Processes/Deep_Gaussian_Processes.html)
-* [Deep convolutional Gaussian processes](https://arxiv.org/abs/1810.03052)
-
 # Robustness
 
 ## Adversarial Robustness
@@ -181,10 +167,34 @@
 
 * [A Survey of Uncertainty in Deep Neural Networks](https://arxiv.org/abs/2107.03342)
 
-# Gaussian Process
+# Bayesian Optimization
+
+* [How to Implement Bayesian Optimization from Scratch in Python](https://machinelearningmastery.com/what-is-bayesian-optimization/)
+* [The intuitions behind Bayesian Optimization with Gaussian Processes](https://towardsdatascience.com/the-intuitions-behind-bayesian-optimization-with-gaussian-processes-7e00fcc898a0)
+
+
+# Gaussian Processes
 
 * [Last Layer Marginal Likelihood for Invariance Learning](https://arxiv.org/abs/2106.07512)
 * [Learning Invariant Weights in Neural Networks](https://arxiv.org/abs/2202.12439)
+
+## GP Book
+* [Gaussian Processes for Machine Learning](http://gaussianprocess.org/gpml/chapters/)
+
+## GP Tutorial
+
+* [Gaussian Processes are Not So Fancy](https://planspace.org/20181226-gaussian_processes_are_not_so_fancy/)
+* [Gaussian Processes for Dummies](https://katbailey.github.io/post/gaussian-processes-for-dummies/)
+* [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
+* [Gaussian Processes in 2-dimensional model - jupyter notebook](https://nbviewer.org/github/SheffieldML/notebook/blob/master/GPy/basic_gp.ipynb)
+* [The Kernel Cookbook: Advice on Covariance functions](https://www.cs.toronto.edu/~duvenaud/cookbook/)
+* [Gaussian Processes for Classification With Python](https://machinelearningmastery.com/gaussian-processes-for-classification-with-python/)
+
+## Deep Gaussian Processes
+
+* [Deep Gaussian Processes](http://proceedings.mlr.press/v31/damianou13a.pdf)
+* [Deep Gaussian Processes_Pytorch](https://docs.gpytorch.ai/en/v1.5.1/examples/05_Deep_Gaussian_Processes/Deep_Gaussian_Processes.html)
+* [Deep convolutional Gaussian processes](https://arxiv.org/abs/1810.03052)
 
 
 # Exploration Strategy
