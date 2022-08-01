@@ -33,7 +33,8 @@
 
 * [Bayesian Optimization](#bayesian-optimization)
   * [BO Tutorial](#bo-tutorial)
-  * 
+
+
 * [Gaussian Processes](#gaussian-processes)
   * [GP Book](#gp-book)
   * [GP Tutorial](#gp-tutorial)
@@ -169,6 +170,7 @@
 
 # Bayesian Optimization
 
+## BO Tutorial
 * [How to Implement Bayesian Optimization from Scratch in Python](https://machinelearningmastery.com/what-is-bayesian-optimization/)
 * [The intuitions behind Bayesian Optimization with Gaussian Processes](https://towardsdatascience.com/the-intuitions-behind-bayesian-optimization-with-gaussian-processes-7e00fcc898a0)
 
@@ -189,6 +191,7 @@
 * [Gaussian Processes in 2-dimensional model - jupyter notebook](https://nbviewer.org/github/SheffieldML/notebook/blob/master/GPy/basic_gp.ipynb)
 * [The Kernel Cookbook: Advice on Covariance functions](https://www.cs.toronto.edu/~duvenaud/cookbook/)
 * [Gaussian Processes for Classification With Python](https://machinelearningmastery.com/gaussian-processes-for-classification-with-python/)
+* [An Intuitive Tutorial to Gaussian Processes Regression](https://arxiv.org/pdf/2009.10862.pdf)
 
 ## Deep Gaussian Processes
 
