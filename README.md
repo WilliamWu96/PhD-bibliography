@@ -37,6 +37,7 @@
 
 
 * [Gaussian Process](#gaussian-process)
+* [Bayesian Optimization](#bayesian-optimization)
 * [Exploration Strategy](#exploration-strategy)
   * [Count-based Exploration Strategy](#Count-based-exploration-strategy)
   * [Prediction-based Exploration Strategy](#Prediction-based-Exploration-Strategy)
