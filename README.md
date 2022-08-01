@@ -173,6 +173,7 @@
 ## BO Tutorial
 * [How to Implement Bayesian Optimization from Scratch in Python](https://machinelearningmastery.com/what-is-bayesian-optimization/)
 * [The intuitions behind Bayesian Optimization with Gaussian Processes](https://towardsdatascience.com/the-intuitions-behind-bayesian-optimization-with-gaussian-processes-7e00fcc898a0)
+* [Deeply Understanding on Bayesian Optimization - Chinese version](https://zhuanlan.zhihu.com/p/53826787)
 
 
 # Gaussian Processes
