@@ -23,6 +23,8 @@
     * [Domain randomization](#domain-randomization)
     * [GAN-based DA](#GAN-based-DA)  
     * [VAE-based DA](#VAE-based-DA)
+
+* [Transfer Learning](#transfer-learning)
   
 * [Robustness](#robustness)
   * [Adversarial Robustness](#Adversarial-Robustness)
@@ -155,6 +157,9 @@
 
 ### VAE-based DA
 * [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning](https://arxiv.org/abs/1707.08475)
+
+# Transfer Learning
+* [Awesome Transfer Learning Papers](https://github.com/jindongwang/transferlearning/blob/master/doc/awesome_paper.md#transfer-reinforcement-learning)
 
 # Robustness
 
