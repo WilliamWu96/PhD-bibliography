@@ -49,7 +49,9 @@
 * [CARLA](#carla)
   * [Reinforcement Learning CARLA](#reinforcement-learning-carla)
   * [Imitation Learning CARLA](#imitation-learning-carla)
+  
 * [RL Safety](#RL-SAFETY)
+* [Robots Appilcation](#robots-application)
 
 # Reinforcement Learning
 
@@ -255,3 +257,6 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 # RL Safety
 * [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
 
+# Robots Application
+* [Bayesian Meta-Learning for Few-Shot Policy Adaptation Across Robotic Platforms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9636628)
+* [Data-Efficient Reinforcement and Transfer Learning in Robotics](https://www.diva-portal.org/smash/get/diva2:1501390/FULLTEXT01.pdf)
