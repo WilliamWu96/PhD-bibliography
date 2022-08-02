@@ -127,7 +127,7 @@
 
 * [A Comprehensive Survey on Transfer Learning](https://arxiv.org/pdf/1911.02685.pdf)
 * [A Review of Single-Source Deep Unsupervised Visual Domain Adaptation](https://arxiv.org/pdf/2009.00155.pdf)
-* [Active Domain Randomization](http://proceedings.mlr.press/v100/mehta20a/mehta20a.pdf)
+* [Active Domain Randomization](http://proceedings.mlr.press/v100/mehta20a/mehta20a.pdf) [[code]](https://github.com/montrealrobotics/active-domainrand)
 
 ## Metric learning-based DA
 
