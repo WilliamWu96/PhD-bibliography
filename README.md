@@ -262,3 +262,10 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 * [Bayesian Meta-Learning for Few-Shot Policy Adaptation Across Robotic Platforms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9636628)
 * [Data-Efficient Reinforcement and Transfer Learning in Robotics](https://www.diva-portal.org/smash/get/diva2:1501390/FULLTEXT01.pdf)
 * [Sim-to-Real Transfer with Incremental Environment Complexity for Reinforcement Learning of Depth-Based Robot Navigation](https://arxiv.org/pdf/2004.14684.pdf)
+* [Reinforced Imitation: Sample Efficient Deep Reinforcement Learning for Map-less Navigation by Leveraging Prior Demonstrations](https://arxiv.org/pdf/1805.07095.pdf)
+* [Target-Driven Mapless Navigation for Self-Driving Car](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9641134)
+
+## Github Demo
+* [Reinforced Imitation: Sample Efficient Deep Reinforcement Learning for Map-less Navigation by Leveraging Prior Demonstrations](https://github.com/ethz-asl/rl-navigation)
+* [RL Navigation for Mantis and Turtlebot3](https://github.com/bhctsntrk/mantis_ddqn_navigation)
+* [Mobile Robot Planner with Low-cost Cameras Using Deep Reinforcement Learning](https://github.com/trqminh/rl-mapless-navigation)
