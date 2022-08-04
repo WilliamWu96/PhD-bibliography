@@ -156,7 +156,7 @@
 * [Unpaired image-to-image translation using cycle-consistent adversarial networks](https://arxiv.org/abs/1703.10593)
 * [Virtual to real reinforcement learning for autonomous driving.](https://arxiv.org/abs/1704.03952)
 * [Adapting deep visuomotor representations with weak pairwise constraints](https://arxiv.org/abs/1511.07111)
-* [Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation](https://arxiv.org/abs/1806.07377)
+* [Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation](https://arxiv.org/abs/1806.07377) [[code]](https://github.com/ShaniGam/RL-GAN)
 
 
 ### VAE-based DA
