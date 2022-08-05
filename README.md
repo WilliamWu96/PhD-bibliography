@@ -132,6 +132,7 @@
 
 ## Continual Domain Adaptation
 * [Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning](https://arxiv.org/pdf/2012.04324.pdf)
+* [Same State, Different Task: Continual Reinforcement Learning without Interference](https://arxiv.org/pdf/2106.02940.pdf)
 
 ## Metric learning-based DA
 
