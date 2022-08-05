@@ -130,6 +130,9 @@
 * [A Review of Single-Source Deep Unsupervised Visual Domain Adaptation](https://arxiv.org/pdf/2009.00155.pdf)
 * [Active Domain Randomization](http://proceedings.mlr.press/v100/mehta20a/mehta20a.pdf) [[code]](https://github.com/montrealrobotics/active-domainrand)
 
+## Continual Domain Adaptation
+* [Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning](https://arxiv.org/pdf/2012.04324.pdf)
+
 ## Metric learning-based DA
 
 * [Central Moment Discrepancy (CMD) for Domain-Invariant Representation Learning](https://arxiv.org/abs/1702.08811)
