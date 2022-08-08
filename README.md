@@ -131,8 +131,10 @@
 * [Active Domain Randomization](http://proceedings.mlr.press/v100/mehta20a/mehta20a.pdf) [[code]](https://github.com/montrealrobotics/active-domainrand)
 
 ## Continual Domain Adaptation
-* [Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning](https://arxiv.org/pdf/2012.04324.pdf)
+* [Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning](https://arxiv.org/pdf/2012.04324.pdf) [website](https://europe.naverlabs.com/research/computer-vision/continual-adaptation-of-visual-representations-via-domain-randomization-and-meta-learning/)
 * [Same State, Different Task: Continual Reinforcement Learning without Interference](https://arxiv.org/pdf/2106.02940.pdf)
+* [La-MAML: Look-ahead Meta Learning for Continual Learning](https://proceedings.neurips.cc/paper/2020/file/85b9a5ac91cd629bd3afe396ec07270a-Paper.pdf)
+* [Meta-Learning Representations for Continual Learning](https://papers.nips.cc/paper/2019/file/f4dd765c12f2ef67f98f3558c282a9cd-Paper.pdf)
 
 ## Metric learning-based DA
 
