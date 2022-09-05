@@ -14,6 +14,7 @@
 
 * [Generalization](#generalization-dart)
   * [RL Generalization](#rl-generalization)
+  * [Data Augmentation](#data-augmentation)
   * [Representation Learning](#representation-learning)
   * [IL Generalization](#il-generalization)
 
@@ -110,6 +111,12 @@
 * [On the Generalization Gap in Reparameterizable Reinforcement Learning](https://arxiv.org/abs/1905.12654)
 * [A Regularized Approach to Sparse Optimal Policy in Reinforcement Learning](https://arxiv.org/abs/1903.00725)
 * [Improving Generalization in Reinforcement Learning with Mixture Regularization](https://proceedings.neurips.cc/paper/2020/file/5a751d6a0b6ef05cfe51b86e5d1458e6-Paper.pdf) [[site]](https://policy.fit/projects/mixreg/index.html) [[code]](https://github.com/kaixin96/mixreg)
+
+## Data Augmentation
+* [mixup] [mixup: BEYOND EMPIRICAL RISK MINIMIZATION](https://arxiv.org/pdf/1710.09412.pdf)
+* [NMER] [Neighborhood Mixup Experience Replay: Local Convex Interpolation for Improved Sample Efficiency in Continuous Control Tasks](https://proceedings.mlr.press/v168/sander22a/sander22a.pdf)
+* [Augmix][AUGMIX: A SIMPLE DATA PROCESSING METHOD TO IMPROVE ROBUSTNESS AND UNCERTAINTY](https://arxiv.org/pdf/1912.02781.pdf)
+* [Augmax][AugMax: Adversarial Composition of Random Augmentations for Robust Training](https://proceedings.neurips.cc/paper/2021/file/01e9565cecc4e989123f9620c1d09c09-Paper.pdf)
 
 ## Representation Learning
 * [CURL] [CURL: Contrastive Unsupervised Representations for Reinforcement Learning](https://arxiv.org/abs/2004.04136)
