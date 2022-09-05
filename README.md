@@ -10,6 +10,7 @@
 * [Machine Learning](#machine-learning)
   * [Theory](#theory) 
 
+* RL Environment Setting(#rl-environment-setting)
 
 * [Generalization](#generalization-dart)
   * [RL Generalization](#rl-generalization)
@@ -75,6 +76,12 @@
 ## Theory
 * [GAN] [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 * [Transformer] [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
+# RL Environment Setting
+* [gym] (https://github.com/openai/gym)
+* [highway-env] (https://github.com/eleurent/highway-env)
+* [Procgen Benchmark] (https://github.com/openai/procgen)
+* [DI-drive] (https://github.com/opendilab/DI-drive)
 
 # Generalization :dart:
 
