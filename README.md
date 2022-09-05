@@ -10,7 +10,7 @@
 * [Machine Learning](#machine-learning)
   * [Theory](#theory) 
 
-* RL Environment Setting(#rl-environment-setting)
+* [RL Environment Setting](#rl-environment-setting)
 
 * [Generalization](#generalization-dart)
   * [RL Generalization](#rl-generalization)
