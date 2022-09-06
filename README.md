@@ -14,7 +14,7 @@
 
 * [Generalization](#generalization-dart)
   * [RL Generalization](#rl-generalization)
-  * [Data Augmentation(state-based)](#data-augmentation-state-based)
+  * [Data Augmentation (state-based)](#data-augmentation-state-based)
   * [Representation Learning](#representation-learning)
   * [IL Generalization](#il-generalization)
 
