@@ -114,6 +114,7 @@
 
 ## Data Augmentation (state-based)
 * [mixup] [mixup: BEYOND EMPIRICAL RISK MINIMIZATION](https://arxiv.org/pdf/1710.09412.pdf)
+* [mixreg] [Improving Generalization in Reinforcement Learning with Mixture Regularization](https://arxiv.org/pdf/2010.10814v1.pdf)
 * [NMER] [Neighborhood Mixup Experience Replay: Local Convex Interpolation for Improved Sample Efficiency in Continuous Control Tasks](https://proceedings.mlr.press/v168/sander22a/sander22a.pdf)
 * [Augmix] [AUGMIX: A SIMPLE DATA PROCESSING METHOD TO IMPROVE ROBUSTNESS AND UNCERTAINTY](https://arxiv.org/pdf/1912.02781.pdf)
 * [Augmax] [AugMax: Adversarial Composition of Random Augmentations for Robust Training](https://proceedings.neurips.cc/paper/2021/file/01e9565cecc4e989123f9620c1d09c09-Paper.pdf)
