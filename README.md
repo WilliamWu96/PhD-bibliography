@@ -83,6 +83,7 @@
 * [highway-env] (https://github.com/eleurent/highway-env)
 * [Procgen Benchmark] (https://github.com/openai/procgen)
 * [DI-drive] (https://github.com/opendilab/DI-drive)
+* [D4RL,offline RL benchmark] (https://arxiv.org/pdf/2004.07219.pdf)
 
 # Generalization :dart:
 
