@@ -6,6 +6,8 @@
   * [Theory](#theory) 
   * [Value based](#value-based)
   * [Policy Based](#policy-based)
+  
+* [Offline Reinforcement Learning](#offline-reinforcement-learning)
 
 * [Machine Learning](#machine-learning)
   * [Theory](#theory) 
@@ -71,6 +73,12 @@
 * [PPO 2017] [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 * [SAC 2018] [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
 * [SAC 2018] [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905)
+
+# Offline Reinforcement Learning
+* [D4RL: DATASETS FOR DEEP DATA-DRIVEN REINFORCEMENT LEARNING](https://arxiv.org/pdf/2004.07219.pdf)
+* [Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/pdf/2006.04779.pdf)
+* [Off-Policy Deep Reinforcement Learning without Exploration](https://arxiv.org/pdf/1812.02900.pdf)
+* [General Batch RL papers](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#general-batch-rl )
 
 # Machine Learning
 
