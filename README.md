@@ -65,14 +65,12 @@
 * [A Markovian Decision Process](https://www.jstor.org/stable/24900506?seq=1)
 * [Planning and acting in partially observable stochastic domains](https://www.sciencedirect.com/science/article/pii/S000437029800023X)
 
-## Value based
+## Classic Papers
 * [DQN] [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
-
-## Policy based
-### Policy gradient
 * [PPO 2017] [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 * [SAC 2018] [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
 * [SAC 2018] [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905)
+* [DDPG] [CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING](https://arxiv.org/pdf/1509.02971.pdf)
 
 # Offline Reinforcement Learning
 * [D4RL: DATASETS FOR DEEP DATA-DRIVEN REINFORCEMENT LEARNING](https://arxiv.org/pdf/2004.07219.pdf)
