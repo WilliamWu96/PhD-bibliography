@@ -82,6 +82,8 @@
 
 # Continual Reinforcement Learning
 * [Continual World: A Robotic Benchmark For Continual Reinforcement Learning](https://arxiv.org/pdf/2105.10919.pdf)
+* [Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning](https://arxiv.org/pdf/2012.04324.pdf)
+* [PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](https://arxiv.org/pdf/1711.05769.pdf)
 
 # Machine Learning
 
