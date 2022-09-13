@@ -9,6 +9,8 @@
   
 * [Offline Reinforcement Learning](#offline-reinforcement-learning)
 
+* [Continual Reinforcement Learning](#continual-reinforcement-learning)
+
 * [Machine Learning](#machine-learning)
   * [Theory](#theory) 
 
@@ -77,6 +79,9 @@
 * [Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/pdf/2006.04779.pdf)
 * [Off-Policy Deep Reinforcement Learning without Exploration](https://arxiv.org/pdf/1812.02900.pdf)
 * [General Batch RL papers](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#general-batch-rl )
+
+# Continual Reinforcement Learning
+* [Continual World: A Robotic Benchmark For Continual Reinforcement Learning](https://arxiv.org/pdf/2105.10919.pdf)
 
 # Machine Learning
 
