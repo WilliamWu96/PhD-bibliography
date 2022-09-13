@@ -83,9 +83,10 @@
 # Continual Reinforcement Learning
 * [Continual World: A Robotic Benchmark For Continual Reinforcement Learning](https://arxiv.org/pdf/2105.10919.pdf) [website](https://sites.google.com/view/continualworld)
 * [Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning](https://arxiv.org/pdf/2012.04324.pdf)
-* [PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](https://arxiv.org/pdf/1711.05769.pdf)
-* [VARIATIONAL CONTINUAL LEARNING](https://arxiv.org/pdf/1710.10628.pdf)
+* [PackNet] [PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](https://arxiv.org/pdf/1711.05769.pdf)
+* [VCL] [VARIATIONAL CONTINUAL LEARNING](https://arxiv.org/pdf/1710.10628.pdf)
 * [L2/EWC] [Overcoming catastrophic forgetting inneural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1611835114)
+* [MAS] [Memory Aware Synapses: Learning what (not) to forget](https://arxiv.org/pdf/1711.09601.pdf)
 
 # Machine Learning
 
@@ -249,7 +250,6 @@
 * [Deep Gaussian Processes_Pytorch](https://docs.gpytorch.ai/en/v1.5.1/examples/05_Deep_Gaussian_Processes/Deep_Gaussian_Processes.html)
 * [Deep convolutional Gaussian processes](https://arxiv.org/abs/1810.03052)
 
-
 # Exploration Strategy
 
 A list of papers regarding exploration strategy in (deep) reinforcement learning.
@@ -270,11 +270,8 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 ## Unsupervised Active Pretraining
 
 * [APT] [Behavior From the Void: Unsupervised Active Pre-Training](https://arxiv.org/abs/2103.04551)
-
 * [APS] [APS: Active Pretraining with Successor Features](https://arxiv.org/abs/2108.13956)
-
 * [arXiv 2021] [Reinforcement Learning with Prototypical Representations](https://arxiv.org/abs/2102.11271)
-
 * [RL Active Learning] [Learning with not Enough Data Part 2: Active Learning](https://lilianweng.github.io/posts/2022-02-20-active-learning/)
 
 
