@@ -99,6 +99,8 @@
 ## Theory
 * [GAN] [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 * [Transformer] [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+* [Browse State-of-the-Art] (https://paperswithcode.com/sota)
+* [Deep Learning Monitor](https://deeplearn.org/)
 
 # RL Environment Setting
 * [gym] (https://github.com/openai/gym)
@@ -106,6 +108,7 @@
 * [Procgen Benchmark] (https://github.com/openai/procgen)
 * [DI-drive] (https://github.com/opendilab/DI-drive)
 * [D4RL,offline RL benchmark] (https://arxiv.org/pdf/2004.07219.pdf)
+* [reinforcement learning environments you must know](https://medium.com/@mlblogging.k/15-awesome-reinforcement-learning-environments-you-must-know-a38fb75867f2)
 
 # Generalization :dart:
 
