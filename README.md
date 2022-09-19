@@ -101,6 +101,7 @@
 * [Transformer] [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 * [Browse State-of-the-Art] (https://paperswithcode.com/sota)
 * [Deep Learning Monitor](https://deeplearn.org/)
+* [Machine Learning White Board](https://www.yuque.com/books/share/f4031f65-70c1-4909-ba01-c47c31398466?#)
 
 # RL Environment Setting
 * [gym] (https://github.com/openai/gym)
