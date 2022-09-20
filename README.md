@@ -94,6 +94,7 @@
 * [Awesome Incremental Learning / Lifelong learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 * [CoLLAs] [Conference on Lifelong Learning Agents](https://virtual.lifelong-ml.cc/papers.html?session=Conference&filter=keywords)
 * [A continual learning survey: Defying forgetting in classification tasks](https://arxiv.org/pdf/1909.08383.pdf)
+* [CORA: Benchmarks, Baselines, and Metrics as a Platform for Continual Reinforcement Learning Agents](https://drive.google.com/file/d/1mdqte2xbD6HrP49t9fiRqljU6kvyItb9/view)
 
 # Machine Learning
 
