@@ -17,6 +17,7 @@
 * [RL Environment Setting](#rl-environment-setting)
 
 * [Generalization](#generalization-dart)
+  * [ML Generalization](#ml-generalization)
   * [RL Generalization](#rl-generalization)
   * [Data Augmentation (state-based)](#data-augmentation-state-based)
   * [Representation Learning](#representation-learning)
@@ -114,6 +115,10 @@
 * [reinforcement learning environments you must know](https://medium.com/@mlblogging.k/15-awesome-reinforcement-learning-environments-you-must-know-a38fb75867f2)
 
 # Generalization :dart:
+
+## ML generalization
+* [Generalizing to Unseen Domains via Adversarial Data Augmentation](https://proceedings.neurips.cc/paper/2018/file/1d94108e907bb8311d8802b48fd54b4a-Paper.pdf)
+* [Shuffle Augmentation of Features from Unlabeled Data for Unsupervised Domain Adaptation](https://arxiv.org/pdf/2201.11963.pdf)
 
 ## RL generalization
 
