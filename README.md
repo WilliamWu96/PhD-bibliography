@@ -156,6 +156,7 @@
 * [Continuous Transition] [Continuous Transition: Improving Sample Efficiency for Continuous Control Problems via MixUp](https://arxiv.org/pdf/2011.14487.pdf)
 * [S4RL] [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning in Robotics](https://arxiv.org/pdf/2103.06326.pdf)
 * [Automatic Gaussian Noise] [A simple way to make neural networks robust against diverse image corruptions](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480052.pdf)
+* [Certifying Some Distributional Robustness with Principled Adversarial Training](https://arxiv.org/pdf/1710.10571.pdf)
 
 ## Representation Learning
 * [CURL] [CURL: Contrastive Unsupervised Representations for Reinforcement Learning](https://arxiv.org/abs/2004.04136)
