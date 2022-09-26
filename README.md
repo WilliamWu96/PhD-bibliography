@@ -174,6 +174,7 @@
     </details>
 * [2021] [Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning](https://arxiv.org/abs/2101.05265)
 * [Generalization in Reinforcement Learning with Selective Noise Injection and Information Bottleneck](https://arxiv.org/abs/1910.12911)
+* [Data-efficient reinforcement learning with self-predictive representations](https://arxiv.org/pdf/2007.05929.pdf)
 
 ## IL generalization
 
