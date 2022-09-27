@@ -20,7 +20,7 @@
   * [ML Generalization](#ml-generalization)
   * [RL Generalization](#rl-generalization)
   * [Data Augmentation (state-based)](#data-augmentation-state-based)
-  * [Model Perspective](#model-persperctive)
+  * [Model Perspective](#model-perspective)
   * [Representation Learning](#representation-learning)
   * [IL Generalization](#il-generalization)
 
