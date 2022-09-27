@@ -91,6 +91,7 @@
 * [VCL] [VARIATIONAL CONTINUAL LEARNING](https://arxiv.org/pdf/1710.10628.pdf)
 * [L2/EWC] [Overcoming catastrophic forgetting inneural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1611835114)
 * [MAS] [Memory Aware Synapses: Learning what (not) to forget](https://arxiv.org/pdf/1711.09601.pdf)
+* [GEM] [Gradient Episodic Memory for Continual Learning](https://arxiv.org/pdf/1706.08840.pdf)
 * [A-GEM] [EFFICIENT LIFELONG LEARNING WITH A-GEM](https://arxiv.org/pdf/1812.00420.pdf)
 * [PopArt] [Multi-task deep reinforcement learning with popart](https://arxiv.org/pdf/1809.04474.pdf)
 * [Task-Agnostic Continual Reinforcement Learning: In Praise of a Simple Baseline](https://arxiv.org/pdf/2205.14495.pdf)
