@@ -106,6 +106,10 @@
 * [CORA: Benchmarks, Baselines, and Metrics as a Platform for Continual Reinforcement Learning Agents](https://drive.google.com/file/d/1mdqte2xbD6HrP49t9fiRqljU6kvyItb9/view)
 * [Efficient Lifelong Learning with A-GEM](https://arxiv.org/pdf/1812.00420.pdf)
 
+## Bayesian Approaches: Continual RL
+* [Multi-Task Reinforcement Learning: A Hierarchical Bayesian Approach](http://engr.case.edu/ray_soumya/papers/mtrl-hb.icml07.pdf)
+* [Task-Agnostic Online Reinforcement Learning with an Infinite Mixture of Gaussian Processes](https://arxiv.org/pdf/2006.11441.pdf)
+
 # Machine Learning
 
 ## Theory
