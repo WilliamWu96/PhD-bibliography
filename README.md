@@ -34,7 +34,7 @@
 
 * [Transfer Learning](#transfer-learning)
 
-* [Casual Reasoning](#casual-reasoning)
+* [Causual Reasoning](#causual-reasoning)
   
 * [Robustness](#robustness)
   * [Adversarial Robustness](#Adversarial-Robustness)
@@ -233,11 +233,11 @@
 ### VAE-based DA
 * [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning](https://arxiv.org/abs/1707.08475)
 
-# Causal Reasoning
-* [Generalizing Goal-Conditioned Reinforcement Learning with Variational Causal Reasoning](https://arxiv.org/pdf/2207.09081.pdf)
-
 # Transfer Learning
 * [Awesome Transfer Learning Papers](https://github.com/jindongwang/transferlearning/blob/master/doc/awesome_paper.md#transfer-reinforcement-learning)
+
+# Causal Reasoning
+* [Generalizing Goal-Conditioned Reinforcement Learning with Variational Causal Reasoning](https://arxiv.org/pdf/2207.09081.pdf)
 
 # Robustness
 
