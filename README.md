@@ -246,6 +246,11 @@
 
 # Causal Reasoning 
 * [Generalizing Goal-Conditioned Reinforcement Learning with Variational Causal Reasoning](https://arxiv.org/pdf/2207.09081.pdf)
+* [Learning Neural Causal Models from Unknown Interventions](https://arxiv.org/pdf/1910.01075.pdf)
+* [Learning Neural Causal Models with Active Interventions](https://arxiv.org/pdf/2109.02429.pdf)
+* [Experimental design for cost-aware learning of causal graphs](https://arxiv.org/pdf/1810.11867.pdf)
+* [Invariant causal prediction for block mdps](https://arxiv.org/pdf/2003.06016.pdf)
+* [Learning invariant representations for reinforcement learning without reconstruction](https://arxiv.org/pdf/2006.10742.pdf)
 
 # Robustness
 
