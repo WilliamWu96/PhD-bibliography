@@ -31,10 +31,10 @@
     * [Domain randomization](#domain-randomization)
     * [GAN-based DA](#GAN-based-DA)  
     * [VAE-based DA](#VAE-based-DA)
-    
-* [Casual Reasoning](#casual-reasoning)
 
 * [Transfer Learning](#transfer-learning)
+
+* [Casual Reasoning](#casual-reasoning)
   
 * [Robustness](#robustness)
   * [Adversarial Robustness](#Adversarial-Robustness)
