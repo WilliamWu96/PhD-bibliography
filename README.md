@@ -10,7 +10,7 @@
 * [Offline Reinforcement Learning](#offline-reinforcement-learning)
 
 * [Continual Reinforcement Learning](#continual-reinforcement-learning)
-  * [Bayesian Approaches: Continual RL](#Bayesian-Approaches:-Continual-RL)
+  * [Bayesian Approaches: Continual RL](#Bayesian-Approaches-Continual-RL)
 
 * [Machine Learning](#machine-learning)
   * [Theory](#theory) 
