@@ -4,8 +4,8 @@
 
 * [Reinforcement Learning](#reinforcement-learning)
   * [Theory](#theory) 
-  * [Value based](#value-based)
-  * [Policy Based](#policy-based)
+  * [Classic Papers](#classic-paper)
+  * [Trustworthy RL](#trustworthy-rl)
   
 * [Offline Reinforcement Learning](#offline-reinforcement-learning)
 
@@ -79,6 +79,9 @@
 * [SAC 2018] [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905)
 * [DDPG] [CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING](https://arxiv.org/pdf/1509.02971.pdf)
 * [Spinning Up](https://spinningup.openai.com/en/latest/)
+
+## Trustworthy RL
+* [Trustworthy Reinforcement Learning Against Intrinsic Vulnerabilities: Robustness, Safety, and Generalizability](https://arxiv.org/pdf/2209.08025.pdf)
 
 # Offline Reinforcement Learning
 * [D4RL: DATASETS FOR DEEP DATA-DRIVEN REINFORCEMENT LEARNING](https://arxiv.org/pdf/2004.07219.pdf)
