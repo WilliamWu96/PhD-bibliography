@@ -34,7 +34,7 @@
 
 * [Transfer Learning](#transfer-learning)
 
-* [Causual Reasoning](#causual-reasoning)
+* [Causal Reasoning](#causal-reasoning)
   
 * [Robustness](#robustness)
   * [Adversarial Robustness](#Adversarial-Robustness)
@@ -236,7 +236,7 @@
 # Transfer Learning
 * [Awesome Transfer Learning Papers](https://github.com/jindongwang/transferlearning/blob/master/doc/awesome_paper.md#transfer-reinforcement-learning)
 
-# Causal Reasoning
+# Causal Reasoning 
 * [Generalizing Goal-Conditioned Reinforcement Learning with Variational Causal Reasoning](https://arxiv.org/pdf/2207.09081.pdf)
 
 # Robustness
