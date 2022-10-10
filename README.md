@@ -58,7 +58,7 @@
   * [Prediction-based Exploration Strategy](#Prediction-based-Exploration-Strategy)
   * [Unsupervised Active Pretraining](#Unsupervised-Active-Pretraining)
   
-* Traffic Problem based on RL(#traffic-problem-based-on-RL)
+* [Traffic Problem based on RL](#traffic-problem-based-on-RL)
   
 * [CARLA](#carla)
   * [Reinforcement Learning CARLA](#reinforcement-learning-carla)
