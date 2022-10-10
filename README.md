@@ -60,6 +60,7 @@
   * [Unsupervised Active Pretraining](#Unsupervised-Active-Pretraining)
   
 * [Traffic Problem based on RL](#traffic-problem-based-on-RL)
+  * [Traffic env setting](#traffic-env-setting) 
   
 * [CARLA](#carla)
   * [Reinforcement Learning CARLA](#reinforcement-learning-carla)
@@ -132,6 +133,9 @@
 # RL Environment Setting
 * [gym] (https://github.com/openai/gym)
 * [highway-env] (https://github.com/eleurent/highway-env)
+* [SMARTS] (https://github.com/huawei-noah/SMARTS)
+* [SUMO] (https://github.com/eclipse/sumo)
+* [metadrive] (https://github.com/metadriverse/metadrive)
 * [Procgen Benchmark] (https://github.com/openai/procgen)
 * [DI-drive] (https://github.com/opendilab/DI-drive)
 * [D4RL,offline RL benchmark] (https://arxiv.org/pdf/2004.07219.pdf)
@@ -333,6 +337,12 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
  * [PhD thesis 2020] [Many-Agent Reinforcement Learning: A Modern Approach](https://discovery.ucl.ac.uk/id/eprint/10124273/12/Yang_10124273_thesis_revised.pdf)
  * [PhD thesis 2020] [Safe and Efficient Reinforcement Learning for Behavioural Planning in Autonomous Driving](https://hal.inria.fr/tel-03035705/document)
  * [Efficient Learning of Safe Driving Policy via Human-AI Copilot Optimization][web](https://decisionforce.github.io/HACO/) [paper](https://decisionforce.github.io/HACO/)
+
+## Traffic env setting
+* [highway-env] (https://github.com/eleurent/highway-env)
+* [SMARTS] (https://github.com/huawei-noah/SMARTS)
+* [SUMO] (https://github.com/eclipse/sumo)
+* [metadrive] (https://github.com/metadriverse/metadrive)
 
 # CARLA
 
