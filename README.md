@@ -324,7 +324,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 * [RL Active Learning] [Learning with not Enough Data Part 2: Active Learning](https://lilianweng.github.io/posts/2022-02-20-active-learning/)
 
 # Traffic Problem based on RL
- * [PhD thesis 2020] [Many-Agent Reinforcement Learning: A Modern Approach(https://discovery.ucl.ac.uk/id/eprint/10124273/12/Yang_10124273_thesis_revised.pdf)
+ * [PhD thesis 2020] [Many-Agent Reinforcement Learning: A Modern Approach](https://discovery.ucl.ac.uk/id/eprint/10124273/12/Yang_10124273_thesis_revised.pdf)
  * [PhD thesis 2020] [Safe and Efficient Reinforcement Learning for Behavioural Planning in Autonomous Driving](https://hal.inria.fr/tel-03035705/document)
 
 # CARLA
