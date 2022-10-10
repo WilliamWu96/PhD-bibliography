@@ -114,6 +114,10 @@
 * [Multi-Task Reinforcement Learning: A Hierarchical Bayesian Approach](http://engr.case.edu/ray_soumya/papers/mtrl-hb.icml07.pdf)
 * [Task-Agnostic Online Reinforcement Learning with an Infinite Mixture of Gaussian Processes](https://arxiv.org/pdf/2006.11441.pdf)
 
+## Memory-based Continual Learning
+* [Information-theoretic Online Memory Selection for Continual Learning](https://openreview.net/forum?id=IpctgL7khPp)
+* []
+
 # Machine Learning
 
 ## Theory
