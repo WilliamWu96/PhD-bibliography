@@ -11,6 +11,7 @@
 
 * [Continual Reinforcement Learning](#continual-reinforcement-learning)
   * [Bayesian Approaches: Continual RL](#Bayesian-Approaches-Continual-RL)
+  * [Memory-based Continual learning](#memory-based-continual-learning)
 
 * [Machine Learning](#machine-learning)
   * [Theory](#theory) 
