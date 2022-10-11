@@ -127,8 +127,8 @@
 ## Gradient-based Continual Learning
 * [Gradient Projection Memory for Continual Learning](https://openreview.net/forum?id=3AOj0RCNC2)
 * [Continual Learning with Recursive Gradient Optimization](https://openreview.net/forum?id=7YDLgf9_zgm)
-* []
-
+* [TRGP: Trust Region Gradient Projection for Continual Learning](https://openreview.net/forum?id=iEvAf8i6JjO)
+* [What Should I Know? Using Meta-Gradient Descent for Predictive Feature Discovery in a Single Stream of Experience](https://virtual.lifelong-ml.cc/poster_6.html)
 
 # Machine Learning
 
