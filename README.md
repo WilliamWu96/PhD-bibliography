@@ -12,6 +12,7 @@
 * [Continual Reinforcement Learning](#continual-reinforcement-learning)
   * [Bayesian Approaches: Continual RL](#Bayesian-Approaches-Continual-RL)
   * [Memory-based Continual learning](#memory-based-continual-learning)
+  * [Gradient-based Continual Learning](#Gradient-based-Continual-Learning)
 
 * [Machine Learning](#machine-learning)
   * [Theory](#theory) 
@@ -122,6 +123,12 @@
 * [Information-theoretic Online Memory Selection for Continual Learning](https://openreview.net/forum?id=IpctgL7khPp)
 * [Continual Learning Based on OOD Detection and Task Masking](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/Kim_Continual_Learning_Based_on_OOD_Detection_and_Task_Masking_CVPRW_2022_paper.pdf)
 * [Overcoming Catastrophic Forgetting with Hard Attention to the Task](https://arxiv.org/pdf/1801.01423.pdf)
+
+## Gradient-based Continual Learning
+* [Gradient Projection Memory for Continual Learning](https://openreview.net/forum?id=3AOj0RCNC2)
+* [Continual Learning with Recursive Gradient Optimization](https://openreview.net/forum?id=7YDLgf9_zgm)
+* []
+
 
 # Machine Learning
 
