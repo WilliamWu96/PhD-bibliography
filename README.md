@@ -2,7 +2,7 @@
 
 # Table of contents
 
-* Mathmatic Theory
+* Mathmatic Theory(#mathmatic-theory)
   
   * [Bayesian Optimization](#bayesian-optimization)
     * [BO Tutorial](#bo-tutorial)
