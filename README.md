@@ -36,6 +36,7 @@
   * [Data Augmentation (state-based)](#data-augmentation-state-based)
   * [Model Perspective](#model-perspective)
   * [Representation Learning](#representation-learning)
+    * [RL with GNN](#RL-with-GNN)
   * [IL Generalization](#il-generalization)
 
 * [Domain Adaptation (DA)](#domain-adaptation-da)
@@ -108,7 +109,6 @@
 ## Uncertainty
 
 * [A Survey of Uncertainty in Deep Neural Networks](https://arxiv.org/abs/2107.03342)
-
 
 # Machine Learning
 
@@ -248,6 +248,10 @@
 * [2021] [Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning](https://arxiv.org/abs/2101.05265)
 * [Generalization in Reinforcement Learning with Selective Noise Injection and Information Bottleneck](https://arxiv.org/abs/1910.12911)
 * [Data-efficient reinforcement learning with self-predictive representations](https://arxiv.org/pdf/2007.05929.pdf)
+
+### RL with GNN
+* [Learning Object-Centered Autotelic Behaviors with Graph Neural Networks](https://arxiv.org/pdf/2204.05141.pdf)
+* [Hyperbolic Deep Reinforcement Learning](https://arxiv.org/pdf/2210.01542.pdf)
 
 ## IL generalization
 
