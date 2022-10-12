@@ -2,7 +2,7 @@
 
 # Table of contents
 
-* Mathmatic Theory(#mathmatic-theory)
+* [Mathmatic Theory](#mathmatic-theory)
   
   * [Bayesian Optimization](#bayesian-optimization)
     * [BO Tutorial](#bo-tutorial)
@@ -59,7 +59,7 @@
   * [Prediction-based Exploration Strategy](#Prediction-based-Exploration-Strategy)
   * [Unsupervised Active Pretraining](#Unsupervised-Active-Pretraining)
 
-* Application
+* [RL Application](#RL-Application)
   * [Traffic Problem based on RL](#traffic-problem-based-on-RL)
     * [Traffic env setting](#traffic-env-setting) 
 
