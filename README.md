@@ -72,10 +72,6 @@
     * [Github Demo](#github-demo)
 # Mathmatic Theory
 
-## Uncertainty
-
-* [A Survey of Uncertainty in Deep Neural Networks](https://arxiv.org/abs/2107.03342)
-
 ## Bayesian Optimization
 
 ### BO Tutorial
@@ -107,6 +103,12 @@
 * [Deep Gaussian Processes](http://proceedings.mlr.press/v31/damianou13a.pdf)
 * [Deep Gaussian Processes_Pytorch](https://docs.gpytorch.ai/en/v1.5.1/examples/05_Deep_Gaussian_Processes/Deep_Gaussian_Processes.html)
 * [Deep convolutional Gaussian processes](https://arxiv.org/abs/1810.03052)
+
+
+## Uncertainty
+
+* [A Survey of Uncertainty in Deep Neural Networks](https://arxiv.org/abs/2107.03342)
+
 
 # Machine Learning
 
@@ -343,20 +345,22 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 * [arXiv 2021] [Reinforcement Learning with Prototypical Representations](https://arxiv.org/abs/2102.11271)
 * [RL Active Learning] [Learning with not Enough Data Part 2: Active Learning](https://lilianweng.github.io/posts/2022-02-20-active-learning/)
 
-# Traffic Problem based on RL
+# RL Application
+
+## Traffic Problem based on RL
  * [PhD thesis 2022] [Many-Agent Reinforcement Learning: A Modern Approach](https://discovery.ucl.ac.uk/id/eprint/10124273/12/Yang_10124273_thesis_revised.pdf)
  * [PhD thesis 2020] [Safe and Efficient Reinforcement Learning for Behavioural Planning in Autonomous Driving](https://hal.inria.fr/tel-03035705/document)
  * [Efficient Learning of Safe Driving Policy via Human-AI Copilot Optimization][web](https://decisionforce.github.io/HACO/) [paper](https://decisionforce.github.io/HACO/)
 
-## Traffic env setting
+### Traffic env setting
 * [highway-env] (https://github.com/eleurent/highway-env)
 * [SMARTS] (https://github.com/huawei-noah/SMARTS)
 * [SUMO] (https://github.com/eclipse/sumo)
 * [metadrive] (https://github.com/metadriverse/metadrive)
 
-# CARLA
+## CARLA
 
-## Reinforcement Learning CARLA
+### Reinforcement Learning CARLA
 
 * [RAIL 2021] [Learning to drive from a world on rails](https://arxiv.org/pdf/2105.00636)
 
@@ -364,7 +368,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 
 * [2019] [End-to-End Model-Free Reinforcement Learning for Urban Driving using Implicit Affordances](https://arxiv.org/abs/1911.10868)
 
-## Imitation Learning CARLA
+### Imitation Learning CARLA
 
 * [LAV 2022] [Learning from All Vehicles](https://arxiv.org/pdf/2203.11934)
 
@@ -372,17 +376,17 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 
 * [TransFuser 2021] [Multi-Modal Fusion Transformer for End-to-End Autonomous Driving](https://arxiv.org/abs/2104.09224)
 
-# RL Safety
+## RL Safety
 * [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
 
-# Robots Application
+## Robots Application
 * [Bayesian Meta-Learning for Few-Shot Policy Adaptation Across Robotic Platforms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9636628)
 * [Data-Efficient Reinforcement and Transfer Learning in Robotics](https://www.diva-portal.org/smash/get/diva2:1501390/FULLTEXT01.pdf)
 * [Sim-to-Real Transfer with Incremental Environment Complexity for Reinforcement Learning of Depth-Based Robot Navigation](https://arxiv.org/pdf/2004.14684.pdf)
 * [Reinforced Imitation: Sample Efficient Deep Reinforcement Learning for Map-less Navigation by Leveraging Prior Demonstrations](https://arxiv.org/pdf/1805.07095.pdf)
 * [Target-Driven Mapless Navigation for Self-Driving Car](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9641134)
 
-## Github Demo
+### Github Demo
 * [Reinforced Imitation: Sample Efficient Deep Reinforcement Learning for Map-less Navigation by Leveraging Prior Demonstrations](https://github.com/ethz-asl/rl-navigation)
 * [RL Navigation for Mantis and Turtlebot3](https://github.com/bhctsntrk/mantis_ddqn_navigation)
 * [Mobile Robot Planner with Low-cost Cameras Using Deep Reinforcement Learning](https://github.com/trqminh/rl-mapless-navigation)
