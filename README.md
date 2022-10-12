@@ -2,10 +2,25 @@
 
 # Table of contents
 
+* Mathmatic Theory
+  * [Uncertainty](#uncertainty)
+  
+  * [Bayesian Optimization](#bayesian-optimization)
+    * [BO Tutorial](#bo-tutorial)
+    
+  * [Gaussian Processes](#gaussian-processes)
+    * [GP Book](#gp-book)
+    * [GP Tutorial](#gp-tutorial)
+    * [Deep Gaussian Processes](#deep-gaussian-processes)
+
+* [Machine Learning](#machine-learning)
+  * [Theory](#theory) 
+
 * [Reinforcement Learning](#reinforcement-learning)
   * [Theory](#theory) 
   * [Classic Papers](#classic-paper)
   * [Trustworthy RL](#trustworthy-rl)
+  * [RL Environment Setting](#rl-environment-setting)
   
 * [Offline Reinforcement Learning](#offline-reinforcement-learning)
 
@@ -13,11 +28,6 @@
   * [Bayesian Approaches: Continual RL](#Bayesian-Approaches-Continual-RL)
   * [Memory-based Continual learning](#memory-based-continual-learning)
   * [Gradient-based Continual Learning](#Gradient-based-Continual-Learning)
-
-* [Machine Learning](#machine-learning)
-  * [Theory](#theory) 
-
-* [RL Environment Setting](#rl-environment-setting)
 
 * [Generalization](#generalization-dart)
   * [ML Generalization](#ml-generalization)
@@ -42,18 +52,6 @@
 * [Robustness](#robustness)
   * [Adversarial Robustness](#Adversarial-Robustness)
   * [RL Robustness](#RL-Robustness)
-
-* [Uncertainty](#uncertainty)
-
-
-* [Bayesian Optimization](#bayesian-optimization)
-  * [BO Tutorial](#bo-tutorial)
-
-
-* [Gaussian Processes](#gaussian-processes)
-  * [GP Book](#gp-book)
-  * [GP Tutorial](#gp-tutorial)
-  * [Deep Gaussian Processes](#deep-gaussian-processes)
  
 * [Exploration Strategy](#exploration-strategy)
   * [Count-based Exploration Strategy](#Count-based-exploration-strategy)
@@ -70,6 +68,15 @@
 * [RL Safety](#RL-SAFETY)
 * [Robots Appilcation](#robots-application)
   * [Github Demo](#github-demo)
+
+# Machine Learning
+
+## Theory
+* [GAN] [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+* [Transformer] [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+* [Browse State-of-the-Art] (https://paperswithcode.com/sota)
+* [Deep Learning Monitor](https://deeplearn.org/)
+* [Machine Learning White Board](https://www.yuque.com/books/share/f4031f65-70c1-4909-ba01-c47c31398466?#)
 
 # Reinforcement Learning
 
@@ -89,6 +96,17 @@
 
 ## Trustworthy RL
 * [Trustworthy Reinforcement Learning Against Intrinsic Vulnerabilities: Robustness, Safety, and Generalizability](https://arxiv.org/pdf/2209.08025.pdf)
+
+## RL Environment Setting
+* [gym] (https://github.com/openai/gym)
+* [highway-env] (https://github.com/eleurent/highway-env)
+* [SMARTS] (https://github.com/huawei-noah/SMARTS)
+* [SUMO] (https://github.com/eclipse/sumo)
+* [metadrive] (https://github.com/metadriverse/metadrive)
+* [Procgen Benchmark] (https://github.com/openai/procgen)
+* [DI-drive] (https://github.com/opendilab/DI-drive)
+* [D4RL,offline RL benchmark] (https://arxiv.org/pdf/2004.07219.pdf)
+* [reinforcement learning environments you must know](https://medium.com/@mlblogging.k/15-awesome-reinforcement-learning-environments-you-must-know-a38fb75867f2)
 
 # Offline Reinforcement Learning
 * [D4RL: DATASETS FOR DEEP DATA-DRIVEN REINFORCEMENT LEARNING](https://arxiv.org/pdf/2004.07219.pdf)
@@ -129,26 +147,6 @@
 * [Continual Learning with Recursive Gradient Optimization](https://openreview.net/forum?id=7YDLgf9_zgm)
 * [TRGP: Trust Region Gradient Projection for Continual Learning](https://openreview.net/forum?id=iEvAf8i6JjO)
 * [What Should I Know? Using Meta-Gradient Descent for Predictive Feature Discovery in a Single Stream of Experience](https://virtual.lifelong-ml.cc/poster_6.html)
-
-# Machine Learning
-
-## Theory
-* [GAN] [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
-* [Transformer] [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-* [Browse State-of-the-Art] (https://paperswithcode.com/sota)
-* [Deep Learning Monitor](https://deeplearn.org/)
-* [Machine Learning White Board](https://www.yuque.com/books/share/f4031f65-70c1-4909-ba01-c47c31398466?#)
-
-# RL Environment Setting
-* [gym] (https://github.com/openai/gym)
-* [highway-env] (https://github.com/eleurent/highway-env)
-* [SMARTS] (https://github.com/huawei-noah/SMARTS)
-* [SUMO] (https://github.com/eclipse/sumo)
-* [metadrive] (https://github.com/metadriverse/metadrive)
-* [Procgen Benchmark] (https://github.com/openai/procgen)
-* [DI-drive] (https://github.com/opendilab/DI-drive)
-* [D4RL,offline RL benchmark] (https://arxiv.org/pdf/2004.07219.pdf)
-* [reinforcement learning environments you must know](https://medium.com/@mlblogging.k/15-awesome-reinforcement-learning-environments-you-must-know-a38fb75867f2)
 
 # Generalization :dart:
 
