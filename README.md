@@ -386,6 +386,15 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 
 * [TransFuser 2021] [Multi-Modal Fusion Transformer for End-to-End Autonomous Driving](https://arxiv.org/abs/2104.09224)
 
+### 3D/Nerf attack
+* [Fooling LiDAR Perception via Adversarial Trajectory Perturbation](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Fooling_LiDAR_Perception_via_Adversarial_Trajectory_Perturbation_ICCV_2021_paper.pdf)
+* [Physically Realizable Adversarial Examples for LiDAR Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tu_Physically_Realizable_Adversarial_Examples_for_LiDAR_Object_Detection_CVPR_2020_paper.pdf)
+* [LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud-based Deep Networks](https://arxiv.org/pdf/2011.00566.pdf)
+* [Robustness of 3D Deep Learning in an Adversarial Setting](https://arxiv.org/pdf/1904.00923.pdf)
+* [Geometric Adversarial Attacks and Defenses on 3D Point Clouds](https://arxiv.org/pdf/2012.05657.pdf)
+* [Adversarial Sensor Attack on LiDAR-based Perception in Autonomous Driving](https://arxiv.org/pdf/1907.06826.pdf)
+* [Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures](https://arxiv.org/pdf/2006.16974.pdf)
+
 ## RL Safety
 * [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
 
