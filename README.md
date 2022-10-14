@@ -16,6 +16,7 @@
 
 * [Machine Learning](#machine-learning)
   * [Theory](#theory) 
+  * [Blog](#blog)
 
 * [Reinforcement Learning](#reinforcement-learning)
   * [Theory](#theory) 
@@ -118,6 +119,10 @@
 * [Browse State-of-the-Art] (https://paperswithcode.com/sota)
 * [Deep Learning Monitor](https://deeplearn.org/)
 * [Machine Learning White Board](https://www.yuque.com/books/share/f4031f65-70c1-4909-ba01-c47c31398466?#)
+
+## Blog
+* [Lil’Log](https://lilianweng.github.io/)
+* [The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/)
 
 # Reinforcement Learning
 
