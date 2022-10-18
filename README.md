@@ -182,6 +182,7 @@
 * [Task-Agnostic Online Reinforcement Learning with an Infinite Mixture of Gaussian Processes](https://arxiv.org/pdf/2006.11441.pdf)
 * [Overcoming Catastrophic Forgetting with Hard Attention to the Task](https://arxiv.org/pdf/1801.01423.pdf)
 * [Continual Learning Based on OOD Detection and Task Masking](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/Kim_Continual_Learning_Based_on_OOD_Detection_and_Task_Masking_CVPRW_2022_paper.pdf)
+* [Class-Incremental Learning via Dual Augmentation](https://openreview.net/forum?id=8dqEeFuhgMG)
 
 ## Memory-based Continual Learning
 * [Information-theoretic Online Memory Selection for Continual Learning](https://openreview.net/forum?id=IpctgL7khPp)
