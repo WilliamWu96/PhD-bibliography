@@ -144,14 +144,14 @@
 * [Trustworthy Reinforcement Learning Against Intrinsic Vulnerabilities: Robustness, Safety, and Generalizability](https://arxiv.org/pdf/2209.08025.pdf)
 
 ## RL Environment Setting
-* [gym] (https://github.com/openai/gym)
-* [highway-env] (https://github.com/eleurent/highway-env)
-* [SMARTS] (https://github.com/huawei-noah/SMARTS)
-* [SUMO] (https://github.com/eclipse/sumo)
-* [metadrive] (https://github.com/metadriverse/metadrive)
-* [Procgen Benchmark] (https://github.com/openai/procgen)
-* [DI-drive] (https://github.com/opendilab/DI-drive)
-* [D4RL,offline RL benchmark] (https://arxiv.org/pdf/2004.07219.pdf)
+* [gym](https://github.com/openai/gym)
+* [highway-env](https://github.com/eleurent/highway-env)
+* [SMARTS](https://github.com/huawei-noah/SMARTS)
+* [SUMO](https://github.com/eclipse/sumo)
+* [metadrive](https://github.com/metadriverse/metadrive)
+* [Procgen Benchmark](https://github.com/openai/procgen)
+* [DI-drive](https://github.com/opendilab/DI-drive)
+* [D4RL,offline RL benchmark](https://arxiv.org/pdf/2004.07219.pdf)
 * [reinforcement learning environments you must know](https://medium.com/@mlblogging.k/15-awesome-reinforcement-learning-environments-you-must-know-a38fb75867f2)
 
 # Offline Reinforcement Learning
