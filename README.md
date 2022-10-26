@@ -68,7 +68,7 @@
   * [CARLA](#carla)
     * [Reinforcement Learning CARLA](#reinforcement-learning-carla)
     * [Imitation Learning CARLA](#imitation-learning-carla)
-    * [3D/Nerf attack](#3D/Nerf-attack)
+    * [3D/Nerf attack](#3D-/-Nerf-attack)
 
   * [RL Safety](#RL-SAFETY)
   * [Robots Appilcation](#robots-application)
