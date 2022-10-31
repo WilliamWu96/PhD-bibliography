@@ -53,6 +53,7 @@
 * [Causal Reasoning](#causal-reasoning)
   
 * [Robustness](#robustness)
+  * [Adversarial Attack](#Adversarial-Attack)
   * [Adversarial Robustness](#Adversarial-Robustness)
   * [RL Robustness](#RL-Robustness)
  
@@ -327,6 +328,10 @@
 * [Learning invariant representations for reinforcement learning without reconstruction](https://arxiv.org/pdf/2006.10742.pdf)
 
 # Robustness
+## Adversarial Attack
+* [FGSM] [Adversarial Examples: Attacks and Defenses forDeep Learning](https://arxiv.org/pdf/1712.07107.pdf)
+* [PGD] [Towards Deep Learning Models Resistant to Adversarial](https://arxiv.org/pdf/1706.06083.pdf)
+* [Tactics of Adversarial Attack on Deep Reinforcement Learning Agents](https://williamd4112.github.io/pubs/ijcai2017_adv.pdf)
 
 ## Adversarial Robustness
 * [DataAug+AdversarialTraining] [Fixing Data Augmentation to Improve Adversarial Robustness](https://arxiv.org/abs/2103.01946)
