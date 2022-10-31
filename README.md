@@ -293,6 +293,7 @@
 * [Divergence-agnostic Unsupervised Domain daptation by Adversarial Attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9528987)
 * [Unsupervised domain adaptation by backpropagation](https://arxiv.org/abs/1409.7495)
 * [Conditional Adversarial Domain Adaptation](https://arxiv.org/abs/1705.10667)
+* [Generalizing to Unseen Domains via Adversarial Data Augmentation](https://proceedings.neurips.cc/paper/2018/file/1d94108e907bb8311d8802b48fd54b4a-Paper.pdf)
 
 ## Domain adaptation in RL
 * [Domain Adaptation In Reinforcement Learning Via Latent Unified State Representation](https://arxiv.org/pdf/2102.05714.pdf)
