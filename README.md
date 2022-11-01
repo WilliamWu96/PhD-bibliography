@@ -330,11 +330,10 @@
 
 # Robustness
 ## Adversarial Attack
-* [FGSM] [Adversarial Examples: Attacks and Defenses forDeep Learning](https://arxiv.org/pdf/1712.07107.pdf)
+* [FGSM] [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/pdf/1712.07107.pdf)
 * [PGD] [Towards Deep Learning Models Resistant to Adversarial](https://arxiv.org/pdf/1706.06083.pdf)
 * [Tactics of Adversarial Attack on Deep Reinforcement Learning Agents](https://williamd4112.github.io/pubs/ijcai2017_adv.pdf)
 * [Adversarial Attacks on Neural Network Policies](https://arxiv.org/pdf/1702.02284.pdf)
-* []
 
 ## Adversarial Robustness
 * [DataAug+AdversarialTraining] [Fixing Data Augmentation to Improve Adversarial Robustness](https://arxiv.org/abs/2103.01946)
