@@ -339,6 +339,7 @@
 * [DataAug+AdversarialTraining] [Robustness and Accuracy Could Be Reconcilable by (Proper) Definition](https://arxiv.org/abs/2202.10103)
 ## RL Robustness
 * [Maximum Entropy RL (Provably) Solves Some Robust RL Problems](https://openreview.net/pdf?id=PtSAD3caaA2)
+* [PhD thesis 2022] [Towards Verifiable, Generalizable and Efficient Robust Deep Neural Networks](https://infoscience.epfl.ch/record/295825)
 
 # Exploration Strategy
 
