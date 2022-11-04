@@ -409,6 +409,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 ### 3D Point Cloud attack at Autonomous Driving
 * [Survey] [SoK: On the Semantic AI Security in Autonomous Driving](https://arxiv.org/pdf/2203.05314.pdf)
 * [3D object detection on nuscenes](https://paperswithcode.com/sota/3d-object-detection-on-nuscenes)
+* [BEVFusion-3D object detection](https://github.com/mit-han-lab/bevfusion)
 * [Adversarial Attacks against LiDAR Semantic Segmentation in Autonomous Driving](https://dl.acm.org/doi/pdf/10.1145/3485730.3485935)
 * [Fooling LiDAR Perception via Adversarial Trajectory Perturbation](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Fooling_LiDAR_Perception_via_Adversarial_Trajectory_Perturbation_ICCV_2021_paper.pdf)
 * [Physically Realizable Adversarial Examples for LiDAR Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tu_Physically_Realizable_Adversarial_Examples_for_LiDAR_Object_Detection_CVPR_2020_paper.pdf)
