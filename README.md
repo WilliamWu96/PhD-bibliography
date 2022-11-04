@@ -205,6 +205,8 @@
 ## ML generalization
 * [Generalizing to Unseen Domains via Adversarial Data Augmentation](https://proceedings.neurips.cc/paper/2018/file/1d94108e907bb8311d8802b48fd54b4a-Paper.pdf)
 * [Shuffle Augmentation of Features from Unlabeled Data for Unsupervised Domain Adaptation](https://arxiv.org/pdf/2201.11963.pdf)
+* [Invariant Risk Minimization](https://arxiv.org/pdf/1907.02893.pdf)
+* [Out-of-Distribution Generalization via Risk Extrapolation](https://arxiv.org/pdf/2003.00688.pdf)
 
 ## RL generalization
 
