@@ -419,6 +419,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 * [Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures](https://arxiv.org/pdf/2006.16974.pdf)
 * [LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud-based Deep Networks](https://arxiv.org/pdf/2011.00566.pdf)
 * [Robustness of 3D Deep Learning in an Adversarial Setting](https://arxiv.org/pdf/1904.00923.pdf)
+* [AdvSim: Generating Safety-Critical Scenarios for Self-Driving Vehicles](https://arxiv.org/pdf/2101.06549.pdf)
 
 ## RL Safety
 * [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
