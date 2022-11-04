@@ -420,6 +420,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 * [LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud-based Deep Networks](https://arxiv.org/pdf/2011.00566.pdf)
 * [Robustness of 3D Deep Learning in an Adversarial Setting](https://arxiv.org/pdf/1904.00923.pdf)
 * [AdvSim: Generating Safety-Critical Scenarios for Self-Driving Vehicles](https://arxiv.org/pdf/2101.06549.pdf)
+* [Generating Useful Accident-Prone Driving Scenarios via a Learned Traffic Prior](https://openaccess.thecvf.com/content/CVPR2022/papers/Rempe_Generating_Useful_Accident-Prone_Driving_Scenarios_via_a_Learned_Traffic_Prior_CVPR_2022_paper.pdf)
 
 ## RL Safety
 * [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
