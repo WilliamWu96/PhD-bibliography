@@ -31,6 +31,11 @@
   * [Memory-based Continual learning](#memory-based-continual-learning)
   * [Gradient-based Continual Learning](#Gradient-based-Continual-Learning)
 
+* [Continual Learning](#continual-learning)
+  * [Bayesian-based Approaches](#Bayesian-based-approaches)
+  * [Memory-based Approaches](#memory-based-approaches)
+  * [Gradient-based Approaches](#Gradient-based-approaches)
+
 * [Generalization](#generalization-dart)
   * [ML Generalization](#ml-generalization)
   * [RL Generalization](#rl-generalization)
@@ -180,20 +185,24 @@
 * [A continual learning survey: Defying forgetting in classification tasks](https://arxiv.org/pdf/1909.08383.pdf)
 * [CORA: Benchmarks, Baselines, and Metrics as a Platform for Continual Reinforcement Learning Agents](https://drive.google.com/file/d/1mdqte2xbD6HrP49t9fiRqljU6kvyItb9/view)
 
-## Bayesian Approaches: Continual RL
+
+
+# Continual Learning
+
+## Bayesian-based Approaches
 * [Multi-Task Reinforcement Learning: A Hierarchical Bayesian Approach](http://engr.case.edu/ray_soumya/papers/mtrl-hb.icml07.pdf)
 * [Task-Agnostic Online Reinforcement Learning with an Infinite Mixture of Gaussian Processes](https://arxiv.org/pdf/2006.11441.pdf)
 * [Overcoming Catastrophic Forgetting with Hard Attention to the Task](https://arxiv.org/pdf/1801.01423.pdf)
 * [Continual Learning Based on OOD Detection and Task Masking](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/Kim_Continual_Learning_Based_on_OOD_Detection_and_Task_Masking_CVPRW_2022_paper.pdf)
 * [Class-Incremental Learning via Dual Augmentation](https://openreview.net/forum?id=8dqEeFuhgMG)
 
-## Memory-based Continual Learning
+## Memory-based Approaches
 * [Information-theoretic Online Memory Selection for Continual Learning](https://openreview.net/forum?id=IpctgL7khPp)
 * [Continual Learning Based on OOD Detection and Task Masking](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/Kim_Continual_Learning_Based_on_OOD_Detection_and_Task_Masking_CVPRW_2022_paper.pdf)
 * [Overcoming Catastrophic Forgetting with Hard Attention to the Task](https://arxiv.org/pdf/1801.01423.pdf)
 * [A Multi-Head Model for Continual Learning via Out-of-Distribution Replay](https://arxiv.org/pdf/2208.09734.pdf)
 
-## Gradient-based Continual Learning
+## Gradient-based Approaches
 * [Gradient Projection Memory for Continual Learning](https://openreview.net/forum?id=3AOj0RCNC2)
 * [Continual Learning with Recursive Gradient Optimization](https://openreview.net/forum?id=7YDLgf9_zgm)
 * [TRGP: Trust Region Gradient Projection for Continual Learning](https://openreview.net/forum?id=iEvAf8i6JjO)
