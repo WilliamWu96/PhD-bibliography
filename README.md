@@ -30,9 +30,10 @@
   * [Conferences](#conferences) 
 
 * [Continual Learning](#continual-learning)
-  * [Bayesian-based Approaches](#Bayesian-based-approaches)
+  * [Regularization-based Approaches](#Regularization-based-approaches)
   * [Memory-based Approaches](#memory-based-approaches)
   * [Gradient-based Approaches](#Gradient-based-approaches)
+  * [Multi-task Learning](#Multi-task-learning)
 
 * [Generalization](#generalization-dart)
   * [ML Generalization](#ml-generalization)
