@@ -170,6 +170,7 @@
 # Continual Reinforcement Learning
 * [Continual World: A Robotic Benchmark For Continual Reinforcement Learning](https://arxiv.org/pdf/2105.10919.pdf) [website](https://sites.google.com/view/continualworld)
 * [CORA: Benchmarks, Baselines, and Metrics as a Platform for Continual Reinforcement Learning Agents](https://drive.google.com/file/d/1mdqte2xbD6HrP49t9fiRqljU6kvyItb9/view)
+* [SEQUOIA: A SOFTWARE FRAMEWORK TO UNIFY CONTINUAL LEARNING RESEARCH](https://arxiv.org/pdf/2108.01005.pdf)
 * [Task-Agnostic Continual Reinforcement Learning: In Praise of a Simple Baseline](https://arxiv.org/pdf/2205.14495.pdf)
 * [Task-Agnostic Online Reinforcement Learning with an Infinite Mixture of Gaussian Processes](https://arxiv.org/pdf/2006.11441.pdf)
 * [Model-Free Generative Replay for Lifelong Reinforcement Learning: Application to Starcraft-2](https://virtual.lifelong-ml.cc/poster_50.html)
