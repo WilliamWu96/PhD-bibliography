@@ -245,6 +245,7 @@
 * [S4RL] [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning in Robotics](https://arxiv.org/pdf/2103.06326.pdf)
 * [Automatic Gaussian Noise] [A simple way to make neural networks robust against diverse image corruptions](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480052.pdf)
 * [Certifying Some Distributional Robustness with Principled Adversarial Training](https://arxiv.org/pdf/1710.10571.pdf)
+* [Augmentation with Projection: Towards an Effective and Efficient Data Augmentation Paradigm for Distillation](https://openreview.net/forum?id=kPPVmUF6bM_)
 
 ## Model Perspective
 * [Sparsity and Heterogeneous Dropout for Continual Learning in the Null Space of Neural Activations](https://arxiv.org/pdf/2203.06514.pdf)
