@@ -172,6 +172,9 @@
 * [CORA: Benchmarks, Baselines, and Metrics as a Platform for Continual Reinforcement Learning Agents](https://drive.google.com/file/d/1mdqte2xbD6HrP49t9fiRqljU6kvyItb9/view)
 * [Task-Agnostic Continual Reinforcement Learning: In Praise of a Simple Baseline](https://arxiv.org/pdf/2205.14495.pdf)
 * [Task-Agnostic Online Reinforcement Learning with an Infinite Mixture of Gaussian Processes](https://arxiv.org/pdf/2006.11441.pdf)
+* [Model-Free Generative Replay for Lifelong Reinforcement Learning: Application to Starcraft-2](https://virtual.lifelong-ml.cc/poster_50.html)
+* [Self-Activating Neural Ensembles for Continual Reinforcement Learning](https://virtual.lifelong-ml.cc/poster_31.html)
+* [Reactive Exploration to Cope With Non-Stationarity in Lifelong Reinforcement Learning](https://virtual.lifelong-ml.cc/poster_35.html)
 
 ## Conferences
 * [CoLLAs] [Conference on Lifelong Learning Agents](https://virtual.lifelong-ml.cc/papers.html?session=Conference&filter=keywords)
