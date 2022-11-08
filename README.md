@@ -27,9 +27,7 @@
 * [Offline Reinforcement Learning](#offline-reinforcement-learning)
 
 * [Continual Reinforcement Learning](#continual-reinforcement-learning)
-  * [Bayesian Approaches: Continual RL](#Bayesian-Approaches-Continual-RL)
-  * [Memory-based Continual learning](#memory-based-continual-learning)
-  * [Gradient-based Continual Learning](#Gradient-based-Continual-Learning)
+  * [Conferences](#conferences) 
 
 * [Continual Learning](#continual-learning)
   * [Bayesian-based Approaches](#Bayesian-based-approaches)
@@ -170,24 +168,21 @@
 
 # Continual Reinforcement Learning
 * [Continual World: A Robotic Benchmark For Continual Reinforcement Learning](https://arxiv.org/pdf/2105.10919.pdf) [website](https://sites.google.com/view/continualworld)
-* [Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning](https://arxiv.org/pdf/2012.04324.pdf)
-* [PackNet] [PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](https://arxiv.org/pdf/1711.05769.pdf)
-* [VCL] [VARIATIONAL CONTINUAL LEARNING](https://arxiv.org/pdf/1710.10628.pdf)
-* [L2/EWC] [Overcoming catastrophic forgetting inneural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1611835114)
-* [MAS] [Memory Aware Synapses: Learning what (not) to forget](https://arxiv.org/pdf/1711.09601.pdf)
-* [GEM] [Gradient Episodic Memory for Continual Learning](https://arxiv.org/pdf/1706.08840.pdf)
-* [A-GEM] [Efficient Lifelong Learning with A-GEM](https://arxiv.org/pdf/1812.00420.pdf)
-* [Improved Schemes for Episodic Memory-based Lifelong Learning](https://proceedings.neurips.cc/paper/2020/file/0b5e29aa1acf8bdc5d8935d7036fa4f5-Paper.pdf)
-* [PopArt] [Multi-task deep reinforcement learning with popart](https://arxiv.org/pdf/1809.04474.pdf)
-* [Task-Agnostic Continual Reinforcement Learning: In Praise of a Simple Baseline](https://arxiv.org/pdf/2205.14495.pdf)
-* [Awesome Incremental Learning / Lifelong learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
-* [CoLLAs] [Conference on Lifelong Learning Agents](https://virtual.lifelong-ml.cc/papers.html?session=Conference&filter=keywords)
-* [A continual learning survey: Defying forgetting in classification tasks](https://arxiv.org/pdf/1909.08383.pdf)
 * [CORA: Benchmarks, Baselines, and Metrics as a Platform for Continual Reinforcement Learning Agents](https://drive.google.com/file/d/1mdqte2xbD6HrP49t9fiRqljU6kvyItb9/view)
+* [Task-Agnostic Continual Reinforcement Learning: In Praise of a Simple Baseline](https://arxiv.org/pdf/2205.14495.pdf)
 
+## Conferences
+* [CoLLAs] [Conference on Lifelong Learning Agents](https://virtual.lifelong-ml.cc/papers.html?session=Conference&filter=keywords)
+* [Awesome Incremental Learning / Lifelong learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 
 
 # Continual Learning
+* [A continual learning survey: Defying forgetting in classification tasks](https://arxiv.org/pdf/1909.08383.pdf)
+
+## Regularization-based Approaches
+* [L2/EWC] [Overcoming catastrophic forgetting inneural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1611835114)
+* [VCL] [VARIATIONAL CONTINUAL LEARNING](https://arxiv.org/pdf/1710.10628.pdf)
+* [MAS] [Memory Aware Synapses: Learning what (not) to forget](https://arxiv.org/pdf/1711.09601.pdf)
 
 ## Bayesian-based Approaches
 * [Multi-Task Reinforcement Learning: A Hierarchical Bayesian Approach](http://engr.case.edu/ray_soumya/papers/mtrl-hb.icml07.pdf)
@@ -195,6 +190,7 @@
 * [Overcoming Catastrophic Forgetting with Hard Attention to the Task](https://arxiv.org/pdf/1801.01423.pdf)
 * [Continual Learning Based on OOD Detection and Task Masking](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/Kim_Continual_Learning_Based_on_OOD_Detection_and_Task_Masking_CVPRW_2022_paper.pdf)
 * [Class-Incremental Learning via Dual Augmentation](https://openreview.net/forum?id=8dqEeFuhgMG)
+* [Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning](https://arxiv.org/pdf/2012.04324.pdf)
 
 ## Memory-based Approaches
 * [Information-theoretic Online Memory Selection for Continual Learning](https://openreview.net/forum?id=IpctgL7khPp)
@@ -203,12 +199,21 @@
 * [A Multi-Head Model for Continual Learning via Out-of-Distribution Replay](https://arxiv.org/pdf/2208.09734.pdf)
 
 ## Gradient-based Approaches
+* [GEM] [Gradient Episodic Memory for Continual Learning](https://arxiv.org/pdf/1706.08840.pdf)
+* [A-GEM] [Efficient Lifelong Learning with A-GEM](https://arxiv.org/pdf/1812.00420.pdf)
+* [Improved Schemes for Episodic Memory-based Lifelong Learning](https://proceedings.neurips.cc/paper/2020/file/0b5e29aa1acf8bdc5d8935d7036fa4f5-Paper.pdf)
 * [Gradient Projection Memory for Continual Learning](https://openreview.net/forum?id=3AOj0RCNC2)
 * [Continual Learning with Recursive Gradient Optimization](https://openreview.net/forum?id=7YDLgf9_zgm)
 * [TRGP: Trust Region Gradient Projection for Continual Learning](https://openreview.net/forum?id=iEvAf8i6JjO)
 * [What Should I Know? Using Meta-Gradient Descent for Predictive Feature Discovery in a Single Stream of Experience](https://virtual.lifelong-ml.cc/poster_6.html)
 * [Few-Shot Learning by Dimensionality Reduction in Gradient Space](https://arxiv.org/pdf/2206.03483.pdf)
 * [Improving Task-free Continual Learning by Distributionally Robust Memory Evolution](https://proceedings.mlr.press/v162/wang22v/wang22v.pdf)
+
+## Isolation-based Approaches
+* [PackNet] [PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](https://arxiv.org/pdf/1711.05769.pdf)
+
+## Multi-task learning
+* [PopArt] [Multi-task deep reinforcement learning with popart](https://arxiv.org/pdf/1809.04474.pdf)
 
 # Generalization :dart:
 
