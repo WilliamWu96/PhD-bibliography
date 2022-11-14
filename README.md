@@ -450,6 +450,9 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 * [Reinforced Imitation: Sample Efficient Deep Reinforcement Learning for Map-less Navigation by Leveraging Prior Demonstrations](https://arxiv.org/pdf/1805.07095.pdf)
 * [Target-Driven Mapless Navigation for Self-Driving Car](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9641134)
 
+## Sim2Real Robots
+* [Off-Dynamics Reinforcement Learning: Training for Transfer with Domain Classifiers](https://github.com/google-research/google-research/tree/master/darc)
+
 ### Github Demo
 * [Reinforced Imitation: Sample Efficient Deep Reinforcement Learning for Map-less Navigation by Leveraging Prior Demonstrations](https://github.com/ethz-asl/rl-navigation)
 * [RL Navigation for Mantis and Turtlebot3](https://github.com/bhctsntrk/mantis_ddqn_navigation)
