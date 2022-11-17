@@ -251,6 +251,7 @@
 * [On the Generalization Gap in Reparameterizable Reinforcement Learning](https://arxiv.org/abs/1905.12654)
 * [A Regularized Approach to Sparse Optimal Policy in Reinforcement Learning](https://arxiv.org/abs/1903.00725)
 * [Improving Generalization in Reinforcement Learning with Mixture Regularization](https://proceedings.neurips.cc/paper/2020/file/5a751d6a0b6ef05cfe51b86e5d1458e6-Paper.pdf) [[site]](https://policy.fit/projects/mixreg/index.html) [[code]](https://github.com/kaixin96/mixreg)
+* [Generalization of Reinforcement Learning with Policy-Aware Adversarial Data Augmentation](https://openreview.net/pdf?id=rzDUUiEFiG)
 
 ## Data Augmentation (state-based)
 * [mixup] [mixup: BEYOND EMPIRICAL RISK MINIMIZATION](https://arxiv.org/pdf/1710.09412.pdf)
