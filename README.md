@@ -443,6 +443,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 
 ## RL Safety
 * [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
+* [Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer](https://arxiv.org/pdf/2207.14024v3.pdf)
 
 ## Robots Application
 * [Bayesian Meta-Learning for Few-Shot Policy Adaptation Across Robotic Platforms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9636628)
