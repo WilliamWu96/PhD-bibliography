@@ -217,6 +217,7 @@
 ## Multi-task learning
 * [PopArt] [Multi-task deep reinforcement learning with popart](https://arxiv.org/pdf/1809.04474.pdf)
 * [Multi-Task Reinforcement Learning: A Hierarchical Bayesian Approach](http://engr.case.edu/ray_soumya/papers/mtrl-hb.icml07.pdf)
+* [Multi-Task Reinforcement Learning with Context-based Representations](https://arxiv.org/pdf/2102.06177.pdf)
 
 # Generalization :dart:
 
