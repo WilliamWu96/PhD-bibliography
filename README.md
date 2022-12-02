@@ -287,6 +287,7 @@
 * [Learning Object-Centered Autotelic Behaviors with Graph Neural Networks](https://arxiv.org/pdf/2204.05141.pdf)
 * [Hyperbolic Deep Reinforcement Learning](https://arxiv.org/pdf/2210.01542.pdf)
 * [Hyperbolic Graph Neural Networks](https://openreview.net/pdf?id=S1eIpVSgUS)
+* [Grid-to-Graph: Flexible Spatial Relational Inductive Biases for Reinforcement Learning](https://arxiv.org/pdf/2102.04220.pdf)
 
 ## IL generalization
 
