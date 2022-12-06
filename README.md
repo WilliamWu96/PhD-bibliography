@@ -266,6 +266,9 @@
 * [Certifying Some Distributional Robustness with Principled Adversarial Training](https://arxiv.org/pdf/1710.10571.pdf)
 * [Augmentation with Projection: Towards an Effective and Efficient Data Augmentation Paradigm for Distillation](https://openreview.net/forum?id=kPPVmUF6bM_)
 * [Adversarial Examples Can Be Effective Data Augmentation for Unsupervised Machine Learning](https://arxiv.org/pdf/2103.01895.pdf)
+* [Disentangling Adversarial Robustness and Generalization](https://arxiv.org/pdf/1812.00740.pdf)
+* [MaxUp: Lightweight Adversarial Training with Data Augmentation Improves Neural Network Training](https://openaccess.thecvf.com/content/CVPR2021/papers/Gong_MaxUp_Lightweight_Adversarial_Training_With_Data_Augmentation_Improves_Neural_Network_CVPR_2021_paper.pdf)
+* [Generalization of Reinforcement Learning with Policy-Aware Adversarial Data Augmentation](https://openreview.net/pdf?id=rzDUUiEFiG)
 
 ## Model Perspective
 * [Sparsity and Heterogeneous Dropout for Continual Learning in the Null Space of Neural Activations](https://arxiv.org/pdf/2203.06514.pdf)
