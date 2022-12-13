@@ -300,6 +300,7 @@
 # Domain Generalization (DG)
 
 * [Domain Generalization: A Survey](https://arxiv.org/abs/2103.02503)
+* [Source‑Guided Adversarial Learning and Data Augmentation for Domain Generalization](https://link.springer.com/content/pdf/10.1007/s42979-020-00375-w.pdf?pdf=button)
 
 # Domain Adaptation (DA)
 
