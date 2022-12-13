@@ -325,6 +325,7 @@
 * [Unsupervised domain adaptation by backpropagation](https://arxiv.org/abs/1409.7495)
 * [Conditional Adversarial Domain Adaptation](https://arxiv.org/abs/1705.10667)
 * [Generalizing to Unseen Domains via Adversarial Data Augmentation](https://proceedings.neurips.cc/paper/2018/file/1d94108e907bb8311d8802b48fd54b4a-Paper.pdf)
+* [Boosting Adversarial Attacks with Momentum](https://arxiv.org/pdf/1710.06081.pdf)
 
 ## Domain adaptation in RL
 * [Domain Adaptation In Reinforcement Learning Via Latent Unified State Representation](https://arxiv.org/pdf/2102.05714.pdf)
@@ -365,6 +366,8 @@
 * [PGD] [Towards Deep Learning Models Resistant to Adversarial](https://arxiv.org/pdf/1706.06083.pdf)
 * [Tactics of Adversarial Attack on Deep Reinforcement Learning Agents](https://williamd4112.github.io/pubs/ijcai2017_adv.pdf)
 * [Adversarial Attacks on Neural Network Policies](https://arxiv.org/pdf/1702.02284.pdf)
+* [Boosting Adversarial Attacks with Momentum](https://arxiv.org/pdf/1710.06081.pdf)
+* [DELVING INTO TRANSFERABLE ADVERSARIAL EXAMPLES AND BLACK-BOX ATTACKS](https://arxiv.org/pdf/1611.02770.pdf)
 
 ## Adversarial Robustness
 * [DataAug+AdversarialTraining] [Fixing Data Augmentation to Improve Adversarial Robustness](https://arxiv.org/abs/2103.01946)
