@@ -176,6 +176,7 @@
 * [Model-Free Generative Replay for Lifelong Reinforcement Learning: Application to Starcraft-2](https://virtual.lifelong-ml.cc/poster_50.html)
 * [Self-Activating Neural Ensembles for Continual Reinforcement Learning](https://virtual.lifelong-ml.cc/poster_31.html)
 * [Reactive Exploration to Cope With Non-Stationarity in Lifelong Reinforcement Learning](https://virtual.lifelong-ml.cc/poster_35.html)
+* [Modular Lifelong Reinforcement Learning via Neural Composition](https://openreview.net/forum?id=5XmLzdslFNN)
 
 ## Conferences
 * [CoLLAs] [Conference on Lifelong Learning Agents](https://virtual.lifelong-ml.cc/papers.html?session=Conference&filter=keywords)
