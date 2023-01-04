@@ -177,6 +177,7 @@
 * [Self-Activating Neural Ensembles for Continual Reinforcement Learning](https://virtual.lifelong-ml.cc/poster_31.html)
 * [Reactive Exploration to Cope With Non-Stationarity in Lifelong Reinforcement Learning](https://virtual.lifelong-ml.cc/poster_35.html)
 * [Modular Lifelong Reinforcement Learning via Neural Composition](https://openreview.net/forum?id=5XmLzdslFNN)
+* [Lifelong Policy Gradient Learning of Factored Policies for Faster Training Without Forgetting](https://arxiv.org/pdf/2007.07011.pdf)
 
 ## Conferences
 * [CoLLAs] [Conference on Lifelong Learning Agents](https://virtual.lifelong-ml.cc/papers.html?session=Conference&filter=keywords)
