@@ -161,6 +161,12 @@
 * [D4RL,offline RL benchmark](https://arxiv.org/pdf/2004.07219.pdf)
 * [reinforcement learning environments you must know](https://medium.com/@mlblogging.k/15-awesome-reinforcement-learning-environments-you-must-know-a38fb75867f2)
 
+## Goal Conditioned RL
+* [Discovering Generalizable Spatial Goal Representations via Graph-based Active Reward Learning](https://proceedings.mlr.press/v162/netanyahu22a/netanyahu22a.pdf)
+* [A Relational Intervention Approach for Unsupervised Dynamics Generalization in Model-Based Reinforcement Learning](https://arxiv.org/pdf/2206.04551.pdf)
+* [Generalizable Imitation Learning from Observation via Inferring Goal Proximity](https://openreview.net/pdf?id=lp9foO8AFoD)
+* [Learning Goal-Conditioned Policies Offline with Self-Supervised Reward Shaping](https://openreview.net/pdf?id=8tmKW-NG2bH)
+
 # Offline Reinforcement Learning
 * [D4RL: DATASETS FOR DEEP DATA-DRIVEN REINFORCEMENT LEARNING](https://arxiv.org/pdf/2004.07219.pdf)
 * [Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/pdf/2006.04779.pdf)
