@@ -361,6 +361,7 @@
 * [Experimental design for cost-aware learning of causal graphs](https://arxiv.org/pdf/1810.11867.pdf)
 * [Invariant causal prediction for block mdps](https://arxiv.org/pdf/2003.06016.pdf)
 * [Learning invariant representations for reinforcement learning without reconstruction](https://arxiv.org/pdf/2006.10742.pdf)
+* [A Relational Intervention Approach for Unsupervised Dynamics Generalization in Model-Based Reinforcement Learning](https://arxiv.org/pdf/2206.04551.pdf)
 
 # Robustness
 ## Adversarial Attack
