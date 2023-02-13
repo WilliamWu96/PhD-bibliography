@@ -23,6 +23,7 @@
   * [Classic Papers](#classic-paper)
   * [Trustworthy RL](#trustworthy-rl)
   * [RL Environment Setting](#rl-environment-setting)
+  * [Goal Conditioned RL](#goal-conditioned-rl)
   
 * [Offline Reinforcement Learning](#offline-reinforcement-learning)
 
