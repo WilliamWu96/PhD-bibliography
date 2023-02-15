@@ -168,6 +168,7 @@
 * [Generalizable Imitation Learning from Observation via Inferring Goal Proximity](https://openreview.net/pdf?id=lp9foO8AFoD)
 * [Learning Goal-Conditioned Policies Offline with Self-Supervised Reward Shaping](https://openreview.net/pdf?id=8tmKW-NG2bH)
 * [Rethinking goal-conditioned supervised learning and its connection to offline rl](https://arxiv.org/pdf/2202.04478.pdf)
+* [Don’t Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning](https://arxiv.org/pdf/2201.13425.pdf)
 
 # Offline Reinforcement Learning
 * [D4RL: DATASETS FOR DEEP DATA-DRIVEN REINFORCEMENT LEARNING](https://arxiv.org/pdf/2004.07219.pdf)
