@@ -173,6 +173,7 @@
 
 ## xRL
 * [Awesome Explainable Reinforcement Learning](https://github.com/Plankson/awesome-explainable-reinforcement-learning#Reward-Explaining)
+* [Trainify: A CEGAR-Driven Training and Verification Framework for Safe Deep Reinforcement Learning](https://faculty.ecnu.edu.cn/_upload/article/files/39/62/197880be44aba90d9d44ac6de8bb/b7ef9fd1-51e0-4284-8af0-5d7a2f9f1869.pdf)
 
 # Offline Reinforcement Learning
 * [D4RL: DATASETS FOR DEEP DATA-DRIVEN REINFORCEMENT LEARNING](https://arxiv.org/pdf/2004.07219.pdf)
