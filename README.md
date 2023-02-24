@@ -173,6 +173,7 @@
 * [Offline Goal-Conditioned Reinforcement Learning via f-Advantage Regression](https://arxiv.org/pdf/2206.03023.pdf)
 * [Prioritized offline Goal-swapping Experience Replay](https://arxiv.org/pdf/2302.07741.pdf)
 * [Swapped goal-conditioned offline reinforcement learning](https://arxiv.org/pdf/2302.08865v1.pdf)
+* [Learning to Reach Goals via Iterated Supervised Learning](https://openreview.net/pdf?id=rALA0Xo6yNJ)
 
 ## xRL
 * [Awesome Explainable Reinforcement Learning](https://github.com/Plankson/awesome-explainable-reinforcement-learning#Reward-Explaining)
