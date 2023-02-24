@@ -170,6 +170,9 @@
 * [Learning Goal-Conditioned Policies Offline with Self-Supervised Reward Shaping](https://openreview.net/pdf?id=8tmKW-NG2bH)
 * [Rethinking goal-conditioned supervised learning and its connection to offline rl](https://arxiv.org/pdf/2202.04478.pdf)
 * [Don’t Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning](https://arxiv.org/pdf/2201.13425.pdf)
+* [Offline Goal-Conditioned Reinforcement Learning via f-Advantage Regression](https://arxiv.org/pdf/2206.03023.pdf)
+* [Prioritized offline Goal-swapping Experience Replay](https://arxiv.org/pdf/2302.07741.pdf)
+* [Swapped goal-conditioned offline reinforcement learning](https://arxiv.org/pdf/2302.08865v1.pdf)
 
 ## xRL
 * [Awesome Explainable Reinforcement Learning](https://github.com/Plankson/awesome-explainable-reinforcement-learning#Reward-Explaining)
