@@ -174,6 +174,7 @@
 * [Prioritized offline Goal-swapping Experience Replay](https://arxiv.org/pdf/2302.07741.pdf)
 * [Swapped goal-conditioned offline reinforcement learning](https://arxiv.org/pdf/2302.08865v1.pdf)
 * [Learning to Reach Goals via Iterated Supervised Learning](https://openreview.net/pdf?id=rALA0Xo6yNJ)
+* [Imitating Graph-Based Planning with Goal-Conditioned Policies](https://openreview.net/pdf?id=6lUEy1J5R7p)
 
 ## xRL
 * [Awesome Explainable Reinforcement Learning](https://github.com/Plankson/awesome-explainable-reinforcement-learning#Reward-Explaining)
