@@ -175,6 +175,7 @@
 * [Swapped goal-conditioned offline reinforcement learning](https://arxiv.org/pdf/2302.08865v1.pdf)
 * [Learning to Reach Goals via Iterated Supervised Learning](https://openreview.net/pdf?id=rALA0Xo6yNJ)
 * [Imitating Graph-Based Planning with Goal-Conditioned Policies](https://openreview.net/pdf?id=6lUEy1J5R7p)
+* [A Relational Intervention Approach for Unsupervised Dynamics Generalization in Model-Based Reinforcement Learning](https://arxiv.org/pdf/2206.04551.pdf)
 
 ## xRL
 * [Awesome Explainable Reinforcement Learning](https://github.com/Plankson/awesome-explainable-reinforcement-learning#Reward-Explaining)
