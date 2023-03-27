@@ -62,6 +62,7 @@
   * [Adversarial Attack](#Adversarial-Attack)
   * [Adversarial Robustness](#Adversarial-Robustness)
   * [RL Robustness](#RL-Robustness)
+  * [Poisoning Attack](#Poisoning-attack)
  
 * [Exploration Strategy](#exploration-strategy)
   * [Count-based Exploration Strategy](#Count-based-exploration-strategy)
@@ -400,6 +401,11 @@
 ## RL Robustness
 * [Maximum Entropy RL (Provably) Solves Some Robust RL Problems](https://openreview.net/pdf?id=PtSAD3caaA2)
 * [PhD thesis 2022] [Towards Verifiable, Generalizable and Efficient Robust Deep Neural Networks](https://infoscience.epfl.ch/record/295825)
+
+## Poisoning Attack
+* [Adaptive Reward-Poisoning Attacks against Reinforcement Learning](https://arxiv.org/pdf/2003.12613.pdf)
+* [Provably Efficient Black-Box Action Poisoning Attacks Against Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2021/file/678004486c119599ed7d199f47da043a-Paper.pdf)
+* [Vulnerability-Aware Poisoning Mechanism for Online RL with Unknown Dynamics](https://arxiv.org/pdf/2009.00774.pdf)
 
 # Exploration Strategy
 
