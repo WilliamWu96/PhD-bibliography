@@ -26,6 +26,8 @@
   * [Goal Conditioned RL](#goal-conditioned-rl)
   * [xRL](#xRL)
   
+* [Pretrain Reinforcement Learning](#Pretrain-reinforcement-learning)
+
 * [Offline Reinforcement Learning](#offline-reinforcement-learning)
 
 * [Continual Reinforcement Learning](#continual-reinforcement-learning)
@@ -182,6 +184,9 @@
 * [Awesome Explainable Reinforcement Learning](https://github.com/Plankson/awesome-explainable-reinforcement-learning#Reward-Explaining)
 * [Trainify: A CEGAR-Driven Training and Verification Framework for Safe Deep Reinforcement Learning](https://faculty.ecnu.edu.cn/_upload/article/files/39/62/197880be44aba90d9d44ac6de8bb/b7ef9fd1-51e0-4284-8af0-5d7a2f9f1869.pdf)
 * [Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations](https://proceedings.neurips.cc/paper/2020/file/f0eb6568ea114ba6e293f903c34d7488-Paper.pdf)
+
+# Pretrain Reinforcement Learning
+* [smart](https://github.com/microsoft/smart)
 
 # Offline Reinforcement Learning
 * [D4RL: DATASETS FOR DEEP DATA-DRIVEN REINFORCEMENT LEARNING](https://arxiv.org/pdf/2004.07219.pdf)
