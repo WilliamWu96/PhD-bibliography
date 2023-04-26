@@ -65,6 +65,7 @@
   * [Adversarial Robustness](#Adversarial-Robustness)
   * [RL Robustness](#RL-Robustness)
   * [Poisoning Attack](#Poisoning-attack)
+  * [Backdoor Attack](#Backdoor-attack)
  
 * [Exploration Strategy](#exploration-strategy)
   * [Count-based Exploration Strategy](#Count-based-exploration-strategy)
@@ -411,6 +412,10 @@
 * [Adaptive Reward-Poisoning Attacks against Reinforcement Learning](https://arxiv.org/pdf/2003.12613.pdf)
 * [Provably Efficient Black-Box Action Poisoning Attacks Against Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2021/file/678004486c119599ed7d199f47da043a-Paper.pdf)
 * [Vulnerability-Aware Poisoning Mechanism for Online RL with Unknown Dynamics](https://arxiv.org/pdf/2009.00774.pdf)
+
+## Backdoor Attack
+* [Adversarial Skill Learning for Robust Manipulation](https://arxiv.org/pdf/2011.03383.pdf)
+* [Robotic Control in Adversarial and Sparse Reward Environments: A Robust Goal-Conditioned Reinforcement Learning Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10018434)
 
 # Exploration Strategy
 
