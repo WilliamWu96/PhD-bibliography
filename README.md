@@ -461,6 +461,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 Traffic Scenario Simulation and Modeling](https://arxiv.org/pdf/2306.12241.pdf)
 * [SafeBench: A Benchmarking Platform for Safety
 Evaluation of Autonomous Vehicles](https://arxiv.org/pdf/2206.09682.pdf)
+* [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/pdf/2307.07162.pdf)
 
 ## CARLA
 
