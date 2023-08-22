@@ -74,7 +74,9 @@
 
 * [RL Application](#RL-Application)
   * [Traffic Problem based on RL](#traffic-problem-based-on-RL)
-    * [Traffic env setting](#traffic-env-setting) 
+    * [Traffic env setting](#traffic-env-setting)
+   
+  * [Trajectory Generation](#Trajectory-generation)
 
   * [CARLA](#carla)
     * [Reinforcement Learning CARLA](#reinforcement-learning-carla)
@@ -453,6 +455,12 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
 * [SMARTS] (https://github.com/huawei-noah/SMARTS)
 * [SUMO] (https://github.com/eclipse/sumo)
 * [metadrive] (https://github.com/metadriverse/metadrive)
+
+## Trajectory Generation
+* [ScenarioNet: Open-Source Platform for Large-Scale
+Traffic Scenario Simulation and Modeling](https://arxiv.org/pdf/2306.12241.pdf)
+* [SafeBench: A Benchmarking Platform for Safety
+Evaluation of Autonomous Vehicles](https://arxiv.org/pdf/2206.09682.pdf)
 
 ## CARLA
 
