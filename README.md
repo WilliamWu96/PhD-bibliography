@@ -455,6 +455,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
  * [Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory](https://arxiv.org/pdf/2305.17144.pdf)
  * [ProAgent: Building Proactive Cooperative AI with Large Language Models](https://arxiv.org/pdf/2308.11339v2.pdf)
  * [Language Instructed Reinforcement Learning for Human-AI Coordination](https://openreview.net/pdf?id=CSAAs2QAyW)
+ * [MetaDrive: Composing Diverse Driving Scenarios for Generalizable Reinforcement Learning](https://arxiv.org/pdf/2109.12674.pdf)
 
 ### Traffic env setting
 * [highway-env] (https://github.com/eleurent/highway-env)
