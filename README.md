@@ -450,6 +450,11 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
  * [PhD thesis 2020] [Safe and Efficient Reinforcement Learning for Behavioural Planning in Autonomous Driving](https://hal.inria.fr/tel-03035705/document)
  * [Efficient Learning of Safe Driving Policy via Human-AI Copilot Optimization][web](https://decisionforce.github.io/HACO/) [paper](https://decisionforce.github.io/HACO/)
  * [Language Instructed Reinforcement Learning for Human-AI Coordination](https://arxiv.org/pdf/2304.07297.pdf) [code](https://github.com/hengyuan-hu/instruct-rl)
+ * [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864v1.pdf)
+ * [Self-Refined Large Language Model as Automated Reward Function Designer for Deep Reinforcement Learning in Robotics](https://arxiv.org/pdf/2309.06687.pdf)
+ * [Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory](https://arxiv.org/pdf/2305.17144.pdf)
+ * [ProAgent: Building Proactive Cooperative AI with Large Language Models](https://arxiv.org/pdf/2308.11339v2.pdf)
+ * [Language Instructed Reinforcement Learning for Human-AI Coordination](https://openreview.net/pdf?id=CSAAs2QAyW)
 
 ### Traffic env setting
 * [highway-env] (https://github.com/eleurent/highway-env)
