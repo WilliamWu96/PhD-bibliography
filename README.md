@@ -456,6 +456,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
  * [ProAgent: Building Proactive Cooperative AI with Large Language Models](https://arxiv.org/pdf/2308.11339v2.pdf)
  * [Language Instructed Reinforcement Learning for Human-AI Coordination](https://openreview.net/pdf?id=CSAAs2QAyW)
  * [MetaDrive: Composing Diverse Driving Scenarios for Generalizable Reinforcement Learning](https://arxiv.org/pdf/2109.12674.pdf)
+ * [Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model](https://arxiv.org/pdf/2305.11176.pdf)
 
 ### Traffic env setting
 * [highway-env] (https://github.com/eleurent/highway-env)
