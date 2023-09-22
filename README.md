@@ -461,6 +461,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
  * [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/pdf/2207.04429.pdf)
  * [Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning](https://openreview.net/forum?id=PsV65r0itpo)
  * [Language to Rewards for Robotic Skill Synthesis](https://language-to-reward.github.io/assets/l2r.pdf)
+ * [Robotics Toolformer: Synergizing Robotics Reasoning and Acting with Mixed-Modal Tools](https://openreview.net/pdf?id=g7oTwH5-M0)
 
 ### Traffic env setting
 * [highway-env] (https://github.com/eleurent/highway-env)
