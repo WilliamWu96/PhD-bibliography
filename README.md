@@ -462,6 +462,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
  * [Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning](https://openreview.net/forum?id=PsV65r0itpo)
  * [Language to Rewards for Robotic Skill Synthesis](https://language-to-reward.github.io/assets/l2r.pdf)
  * [Robotics Toolformer: Synergizing Robotics Reasoning and Acting with Mixed-Modal Tools](https://openreview.net/pdf?id=g7oTwH5-M0)
+ * [ViNT: A Large-Scale, Multi-Task Visual Navigation Backbone with Cross-Robot Generalization](https://openreview.net/pdf?id=-K7-1WvKO3F)
 
 ### Traffic env setting
 * [highway-env] (https://github.com/eleurent/highway-env)
