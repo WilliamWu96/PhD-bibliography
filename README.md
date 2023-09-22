@@ -458,6 +458,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
  * [MetaDrive: Composing Diverse Driving Scenarios for Generalizable Reinforcement Learning](https://arxiv.org/pdf/2109.12674.pdf)
  * [Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model](https://arxiv.org/pdf/2305.11176.pdf)
  * [Instruction-Following Agents with Jointly Pre-Trained Vision-Language Models](https://openreview.net/forum?id=U0jfsqmoV-4)
+ * [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/pdf/2207.04429.pdf)
 
 ### Traffic env setting
 * [highway-env] (https://github.com/eleurent/highway-env)
