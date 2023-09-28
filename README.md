@@ -463,6 +463,8 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
  * [Language to Rewards for Robotic Skill Synthesis](https://language-to-reward.github.io/assets/l2r.pdf)
  * [Robotics Toolformer: Synergizing Robotics Reasoning and Acting with Mixed-Modal Tools](https://openreview.net/pdf?id=g7oTwH5-M0)
  * [ViNT: A Large-Scale, Multi-Task Visual Navigation Backbone with Cross-Robot Generalization](https://openreview.net/pdf?id=-K7-1WvKO3F)
+ * [GUARDED POLICY OPTIMIZATION WITH IMPERFECT ONLINE DEMONSTRATIONS](https://openreview.net/pdf?id=O5rKg7IRQIO)
+ * [Towards Scalable Coverage-Based Testing of Autonomous Vehicles](https://openreview.net/pdf?id=Q9ezhChqnL)
 
 ### Traffic env setting
 * [highway-env] (https://github.com/eleurent/highway-env)
