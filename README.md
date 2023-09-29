@@ -465,6 +465,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
  * [ViNT: A Large-Scale, Multi-Task Visual Navigation Backbone with Cross-Robot Generalization](https://openreview.net/pdf?id=-K7-1WvKO3F)
  * [GUARDED POLICY OPTIMIZATION WITH IMPERFECT ONLINE DEMONSTRATIONS](https://openreview.net/pdf?id=O5rKg7IRQIO)
  * [Towards Scalable Coverage-Based Testing of Autonomous Vehicles](https://openreview.net/pdf?id=Q9ezhChqnL)
+ * [Reinforcement Learning by Guided Safe Exploration](https://arxiv.org/pdf/2307.14316.pdf)
 
 ### Traffic env setting
 * [highway-env] (https://github.com/eleurent/highway-env)
