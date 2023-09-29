@@ -87,6 +87,13 @@
   * [RL Safety](#RL-SAFETY)
   * [Robots Appilcation](#robots-application)
     * [Github Demo](#github-demo)
+
+* [Large Model](#Large-Model)
+  * [Large Language Model](#Large-Language-Model)
+  * [Large Vision Language Model](#Large-Vision-Language-Model)
+ 
+
+
 # Mathmatic Theory
 
 ## Bayesian Optimization
@@ -541,5 +548,5 @@ Evaluation of Autonomous Vehicles](https://arxiv.org/pdf/2206.09682.pdf)
 # Large Model
 ## Large Language Model
 
-## Large Visual Language Model
+## Large Vision Language Model
 * [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf)
