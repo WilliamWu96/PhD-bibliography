@@ -547,6 +547,7 @@ Evaluation of Autonomous Vehicles](https://arxiv.org/pdf/2206.09682.pdf)
 
 # Large Model
 ## Large Language Model
+* [A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation](https://arxiv.org/pdf/2305.11391.pdf)
 
 ## Large Vision Language Model
 * [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf)
