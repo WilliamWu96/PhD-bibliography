@@ -551,3 +551,4 @@ Evaluation of Autonomous Vehicles](https://arxiv.org/pdf/2206.09682.pdf)
 
 ## Large Vision Language Model
 * [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf)
+* [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)
