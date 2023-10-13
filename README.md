@@ -474,6 +474,7 @@ A list of papers regarding exploration strategy in (deep) reinforcement learning
  * [Towards Scalable Coverage-Based Testing of Autonomous Vehicles](https://openreview.net/pdf?id=Q9ezhChqnL)
  * [Reinforcement Learning by Guided Safe Exploration](https://arxiv.org/pdf/2307.14316.pdf)
  * [Safe Reinforcement Learning Using Advantage-Based Intervention](https://arxiv.org/pdf/2106.09110.pdf)
+ * [VISUAL ADVERSARIAL EXAMPLES JAILBREAK ALIGNED LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2306.13213.pdf)
 
 ### Traffic env setting
 * [highway-env] (https://github.com/eleurent/highway-env)
