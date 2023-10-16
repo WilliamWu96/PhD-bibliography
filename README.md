@@ -554,3 +554,16 @@ Evaluation of Autonomous Vehicles](https://arxiv.org/pdf/2206.09682.pdf)
 ## Large Vision Language Model
 * [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf)
 * [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)
+
+## LLM for autonomous driving
+* [SurrealDriver: Designing Generative Driver Agent Simulation Framework in Urban Contexts based on Large Language Model](https://arxiv.org/pdf/2309.13193.pdf)
+* [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/pdf/2307.07162.pdf)
+* [DiLu🐴: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models](https://pjlab-adg.github.io/DiLu/)
+* [LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving](https://arxiv.org/abs/2310.03026)
+
+## Adversarial Prompts
+* [PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts](https://arxiv.org/pdf/2306.04528.pdf)
+* [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/pdf/2307.15043.pdf)
+* [From Prompt Injections to SQL Injection Attacks: How Protected is Your LLM-Integrated Web Application?](https://arxiv.org/pdf/2308.01990.pdf)
+* [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/pdf/2307.02483.pdf)
+* [Are aligned neural networks adversarially aligned?](https://arxiv.org/pdf/2306.15447.pdf)
