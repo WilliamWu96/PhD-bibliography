@@ -85,7 +85,7 @@
     * [3D Point Cloud attack at Autonomous Driving](#3D-Point-Cloud-attack-at-Autonomous-Driving)
 
   * [RL Safety](#RL-SAFETY)
-    * [SafeRL with barrier function](SafeRL-with-barrier-function)
+    * [SafeRL with barrier function](#SafeRL-with-barrier-function)
    
   
   * [Robots Appilcation](#robots-application)
