@@ -91,6 +91,8 @@
 * [Large Model](#Large-Model)
   * [Large Language Model](#Large-Language-Model)
   * [Large Vision Language Model](#Large-Vision-Language-Model)
+  * [LLM for autonomous driving](#LLM-for-autonomous-driving)
+  * [Adversarial Prompts](#Adversarial-Prompts)
  
 
 
