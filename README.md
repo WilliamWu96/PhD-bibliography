@@ -573,6 +573,7 @@ Evaluation of Autonomous Vehicles](https://arxiv.org/pdf/2206.09682.pdf)
 * [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/pdf/2307.07162.pdf)
 * [DiLu🐴: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models](https://pjlab-adg.github.io/DiLu/)
 * [LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving](https://arxiv.org/abs/2310.03026)
+* [A Survey of Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2311.01043.pdf)
 
 ## Adversarial Prompts
 * [PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts](https://arxiv.org/pdf/2306.04528.pdf)
