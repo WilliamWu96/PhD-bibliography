@@ -544,6 +544,11 @@ Evaluation of Autonomous Vehicles](https://arxiv.org/pdf/2206.09682.pdf)
 * [End-to-End Safe Reinforcement Learning through Barrier Functions for Safety-Critical Continuous Control Tasks](http://www-personal.umich.edu/~orosz/articles/AAAI_2019_Richard_Richard_Joel.pdf)
 * [Neural Graph Control Barrier Functions Guided Distributed Collision-avoidance Multi-agent Control](https://openreview.net/pdf?id=VscdYkKgwdH) [code](https://github.com/MIT-REALM/gcbf-pytorch)
 
+### Decentrilized Safe MARL
+* [Decentralized Policy Gradient Descent Ascent for Safe Multi-Agent Reinforcement Learning](https://chentianyi1991.github.io/aaai.pdf)
+* [Safety‑constrained reinforcement learning with a distributional safety critic](https://link.springer.com/article/10.1007/s10994-022-06187-8)
+* [Sim-and-Real Reinforcement Learning for Manipulation: A Consensus-based Approach](https://arxiv.org/pdf/2302.13423.pdf)
+
 ## Robots Application
 * [Bayesian Meta-Learning for Few-Shot Policy Adaptation Across Robotic Platforms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9636628)
 * [Data-Efficient Reinforcement and Transfer Learning in Robotics](https://www.diva-portal.org/smash/get/diva2:1501390/FULLTEXT01.pdf)
