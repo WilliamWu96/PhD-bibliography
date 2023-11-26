@@ -573,6 +573,9 @@ Evaluation of Autonomous Vehicles](https://arxiv.org/pdf/2206.09682.pdf)
 * [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)
 * [VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks](https://huggingface.co/papers/2305.11175)
 
+## Knowledge Distillation of LLM
+* [Knowledge Distillation of Large Language Models](https://arxiv.org/pdf/2306.08543.pdf)
+
 ## LLM for autonomous driving
 * [SurrealDriver: Designing Generative Driver Agent Simulation Framework in Urban Contexts based on Large Language Model](https://arxiv.org/pdf/2309.13193.pdf)
 * [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/pdf/2307.07162.pdf)
