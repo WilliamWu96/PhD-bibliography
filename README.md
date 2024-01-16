@@ -208,7 +208,8 @@
 * [D4RL: DATASETS FOR DEEP DATA-DRIVEN REINFORCEMENT LEARNING](https://arxiv.org/pdf/2004.07219.pdf)
 * [Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/pdf/2006.04779.pdf)
 * [Off-Policy Deep Reinforcement Learning without Exploration](https://arxiv.org/pdf/1812.02900.pdf)
-* [General Batch RL papers](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#general-batch-rl )
+* [General Batch RL papers](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists#general-batch-rl)
+* [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643.pdf)
 
 # Continual Reinforcement Learning
 * [Continual World: A Robotic Benchmark For Continual Reinforcement Learning](https://arxiv.org/pdf/2105.10919.pdf) [website](https://sites.google.com/view/continualworld)
