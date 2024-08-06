@@ -593,3 +593,7 @@ Evaluation of Autonomous Vehicles](https://arxiv.org/pdf/2206.09682.pdf)
 * [Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://llm-tuning-safety.github.io)
 * [Visual Adversarial Examples Jailbreak Aligned Large Language Models](https://arxiv.org/pdf/2306.13213.pdf)
 * [TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP](https://arxiv.org/pdf/2005.05909.pdf)
+* 
+
+# Autonomous Driving
+* [TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving](https://www.cvlibs.net/publications/Chitta2022PAMI.pdf)
