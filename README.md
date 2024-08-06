@@ -597,3 +597,4 @@ Evaluation of Autonomous Vehicles](https://arxiv.org/pdf/2206.09682.pdf)
 
 # Autonomous Driving
 * [TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving](https://www.cvlibs.net/publications/Chitta2022PAMI.pdf)
+* [PlanT: Explainable Planning Transformers via Object-Level Representations](https://github.com/autonomousvision/plant)
